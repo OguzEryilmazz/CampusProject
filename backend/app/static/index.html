@@ -25,6 +25,9 @@ form{display:grid;gap:8px}
 .badge{font-weight:600;white-space:nowrap}
 .badge.now{color:var(--ok)}
 .hidden{display:none}
+.notif{padding:6px 0;border-top:1px solid var(--line)}
+.notif:first-child{border-top:0}
+h2{font-size:1rem;margin:0 0 8px}
 </style>
 </head>
 <body>
@@ -57,6 +60,11 @@ form{display:grid;gap:8px}
 
     <div id="stops"></div>
     <p class="muted" id="empty">Henüz durak eklemedin.</p>
+
+    <div class="card">
+      <h2>Son bildirimler</h2>
+      <div id="notifs" class="muted">Henüz bildirim yok.</div>
+    </div>
   </section>
 
   <p class="err" id="fatal"></p>
@@ -68,6 +76,13 @@ const MAX_STOPS = 10;       // veritabanındaki sınırla aynı olmalı
 const REFRESH_MS = 30000;   // sunucu önbelleği 30 sn
 let sb = null, currentUser = undefined, stops = [], timer = null;  // undefined = henüz bilinmiyor
 const $ = (id) => document.getElementById(id);
+
+// Backend'e giriş token'ıyla istek at
+async function api(path) {
+  const { data } = await sb.auth.getSession();
+  const token = data.session ? data.session.access_token : '';
+  return fetch(path, { headers: { Authorization: 'Bearer ' + token } });
+}
 
 function el(tag, props = {}, ...children) {
   const n = document.createElement(tag);
@@ -119,6 +134,24 @@ async function loadStops() {
   if (error) { $('addErr').textContent = 'Duraklar okunamadı: ' + error.message; return; }
   stops = data;
   render();
+  loadNotifications();
+}
+
+async function loadNotifications() {
+  const { data, error } = await sb.from('notifications')
+    .select('mesaj,created_at').order('created_at', { ascending: false }).limit(5);
+  const box = $('notifs');
+  if (error) {
+    console.error('notifications hatası:', error);
+    box.className = 'err';
+    box.textContent = 'Bildirimler okunamadı: ' + error.message;
+    return;
+  }
+  if (!data || data.length === 0) { box.className = 'muted'; box.textContent = 'Henüz bildirim yok.'; return; }
+  box.className = '';
+  box.replaceChildren(...data.map((n) => el('div', { className: 'notif' },
+    el('div', { textContent: n.mesaj }),
+    el('div', { className: 'muted', textContent: new Date(n.created_at).toLocaleString('tr-TR') }))));
 }
 
 function render() {
@@ -139,12 +172,12 @@ function render() {
   refreshAll();
 }
 
-function refreshAll() { stops.forEach(refreshStop); }
+function refreshAll() { stops.forEach(refreshStop); if (currentUser) loadNotifications(); }
 
 async function refreshStop(s) {
   let data;
   try {
-    const r = await fetch('/stops/' + encodeURIComponent(s.durak_no) + '/arrivals');
+    const r = await api('/stops/' + encodeURIComponent(s.durak_no) + '/arrivals');
     if (!r.ok) throw new Error(r.status);
     data = await r.json();
   } catch {
@@ -175,7 +208,7 @@ $('addForm').addEventListener('submit', async (e) => {
   if (!/^\d{1,7}$/.test(no)) { err.textContent = 'Durak numarası yalnızca rakam olmalı.'; return; }
   if (stops.length >= MAX_STOPS) { err.textContent = 'En fazla ' + MAX_STOPS + ' durak ekleyebilirsin.'; return; }
   try {
-    const r = await fetch('/stops/' + no + '/arrivals');
+    const r = await api('/stops/' + no + '/arrivals');
     if (r.ok && (await r.json()).bos &&
         !confirm('Bu numarada şu an araç görünmüyor ya da numara geçersiz olabilir. Yine de eklensin mi?')) return;
   } catch { /* doğrulama yapılamadıysa eklemeye izin ver */ }
