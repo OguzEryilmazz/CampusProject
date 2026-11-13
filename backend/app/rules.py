@@ -1,9 +1,10 @@
 """Bildirim kuralları (Senaryo 2: okula geliş). Saf fonksiyonlar, dış servis çağırmaz."""
 from datetime import datetime, time, timedelta
 
-WINDOW_BEFORE_MIN = 60   # ilk dersten kaç dk önce kontrol başlar
-MAX_DAKIKA = 15          # "uygun araç": en fazla bu kadar dk uzakta
-DEDUP_MIN = 30           # aynı durak için bu süre içinde tekrar bildirim yok
+WINDOW_BEFORE_MIN = 60       # ilk dersten kaç dk önce kontrol başlar
+DEFAULT_BILDIRIM_DK = 10     # kullanıcı seçmediyse: otobüs durağa en fazla bu kadar dk kala haber ver
+NOTIFIED_LOOKBACK_MIN = 60   # bu süre içinde bildirilen araç yeniden bildirilmez
+MAX_LISTED = 5               # tek bildirimde en fazla bu kadar araç listelenir
 
 
 def parse_time(value):
@@ -23,21 +24,33 @@ def in_window(now, start, before=WINDOW_BEFORE_MIN):
     return begin - timedelta(minutes=before) <= now < begin
 
 
-def pick_vehicle(arrivals, hatlar, max_dk=MAX_DAKIKA):
-    """Kullanıcının hatlarından, en fazla max_dk uzaktaki en yakın canlı araç."""
+def select_vehicles(arrivals, hatlar, max_dk):
+    """Kullanıcının kampüs hatlarından, en fazla max_dk uzaktaki tüm canlı araçlar (yakından uzağa)."""
     if arrivals.get("stale"):  # eski veriye dayanarak bildirim gönderme
-        return None
-    adaylar = [
+        return []
+    uygun = [
         c for c in arrivals["canli"]
         if c["hat_no"] in hatlar and c["dakika"] is not None and c["dakika"] <= max_dk
     ]
-    return min(adaylar, key=lambda c: c["dakika"]) if adaylar else None
+    return sorted(uygun, key=lambda c: c["dakika"])
 
 
-def build_message(durak_ad, vehicle, lesson_start):
+def new_vehicles(vehicles, notified):
+    """Daha önce bildirilmemiş araçlar (arac_no'ya göre)."""
+    return [v for v in vehicles if v["arac_no"] not in notified]
+
+
+def _dk(v):
+    return "geliyor" if v["dakika"] == 0 else f"{v['dakika']} dk"
+
+
+def build_message(durak_ad, vehicles, lesson_start):
     ders = lesson_start.strftime("%H:%M")
-    hat = vehicle["hat_no"]
-    if vehicle["dakika"] == 0:
-        return f"Saat {ders} dersin için {hat} numaralı otobüs {durak_ad} durağına geliyor."
-    return (f"Saat {ders} dersin için {hat} numaralı otobüs "
-            f"{vehicle['dakika']} dk sonra {durak_ad} durağına ulaşıyor.")
+    if len(vehicles) == 1:
+        v = vehicles[0]
+        if v["dakika"] == 0:
+            return f"Saat {ders} dersin için {v['hat_no']} numaralı otobüs {durak_ad} durağına geliyor."
+        return (f"Saat {ders} dersin için {v['hat_no']} numaralı otobüs "
+                f"{v['dakika']} dk sonra {durak_ad} durağına ulaşıyor.")
+    liste = ", ".join(f"{v['hat_no']} ({_dk(v)})" for v in vehicles)
+    return f"Saat {ders} dersin için {durak_ad} durağına yaklaşan otobüsler: {liste}."

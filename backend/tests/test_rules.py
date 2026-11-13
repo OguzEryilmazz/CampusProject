@@ -1,7 +1,8 @@
 from datetime import datetime, time
 from zoneinfo import ZoneInfo
 
-from app.rules import build_message, first_lesson, in_window, parse_time, pick_vehicle
+from app.rules import (build_message, first_lesson, in_window, new_vehicles, parse_time,
+                       select_vehicles)
 
 TZ = ZoneInfo("Europe/Istanbul")
 
@@ -37,22 +38,32 @@ def arac(hat, dk, no="x"):
     return {"hat_no": hat, "dakika": dk, "arac_no": no, "geliyor": dk == 0}
 
 
-def test_pick_vehicle_hat_ve_sure_filtresi():
-    a = arr([arac("101", 3), arac("114", 12, "b"), arac("114", 6, "c"), arac("114", 20, "d")])
-    assert pick_vehicle(a, ["114"])["arac_no"] == "c"          # en yakın 114
-    assert pick_vehicle(a, ["115"]) is None                     # hat seçili değil
-    assert pick_vehicle(arr([arac("114", 20)]), ["114"]) is None  # 15 dk'dan uzak
+def test_select_vehicles_hat_ve_esik_filtresi_yakindan_uzaga():
+    a = arr([arac("101", 3, "a"), arac("114", 12, "b"), arac("114", 6, "c"), arac("115", 30, "d")])
+    assert [v["arac_no"] for v in select_vehicles(a, {"114", "115"}, 30)] == ["c", "b", "d"]
+    assert [v["arac_no"] for v in select_vehicles(a, {"114", "115"}, 10)] == ["c"]
+    assert select_vehicles(a, {"999"}, 30) == []
 
 
-def test_pick_vehicle_eski_veride_bildirim_yok():
-    assert pick_vehicle(arr([arac("114", 5)], stale=True), ["114"]) is None
+def test_select_vehicles_esik_dahil_ve_eski_veri_bos():
+    assert len(select_vehicles(arr([arac("114", 10)]), {"114"}, 10)) == 1
+    assert select_vehicles(arr([arac("114", 5)], stale=True), {"114"}, 30) == []
+    assert select_vehicles(arr([arac("114", None)]), {"114"}, 30) == []
 
 
-def test_pick_vehicle_dakika_bilinmiyorsa_atlar():
-    assert pick_vehicle(arr([arac("114", None)]), ["114"]) is None
+def test_new_vehicles():
+    v = [arac("114", 5, "a"), arac("114", 9, "b")]
+    assert [x["arac_no"] for x in new_vehicles(v, {"a"})] == ["b"]
+    assert new_vehicles(v, {"a", "b"}) == []
 
 
-def test_build_message():
-    assert build_message("Ev durağı", arac("114", 10), time(9, 0)) == \
+def test_build_message_tek_arac():
+    assert build_message("Ev durağı", [arac("114", 10)], time(9, 0)) == \
         "Saat 09:00 dersin için 114 numaralı otobüs 10 dk sonra Ev durağı durağına ulaşıyor."
-    assert "geliyor" in build_message("Ev", arac("114", 0), time(9, 0))
+    assert "geliyor" in build_message("Ev", [arac("114", 0)], time(9, 0))
+
+
+def test_build_message_birden_fazla_arac_tek_mesajda():
+    m = build_message("Ev", [arac("114-1", 5), arac("115-1", 10), arac("115-4", 15)], time(9, 0))
+    assert m == "Saat 09:00 dersin için Ev durağına yaklaşan otobüsler: 114-1 (5 dk), 115-1 (10 dk), 115-4 (15 dk)."
+    assert "114-1 (geliyor)" in build_message("Ev", [arac("114-1", 0), arac("115-1", 8)], time(9, 0))

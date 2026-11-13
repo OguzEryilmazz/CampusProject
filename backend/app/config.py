@@ -18,3 +18,8 @@ def supabase_anon_key():
 def service_role_key():
     """YALNIZCA backend'de kullanılır (RLS'yi aşar). İstemciye ya da /config'e asla verilmez."""
     return os.environ.get("SUPABASE_SERVICE_ROLE_KEY") or os.environ.get("SUPABASE_SECRET_KEY")
+
+
+def firebase_service_account_file():
+    """Firebase hizmet hesabı JSON dosyasının yolu (GİZLİ, repoya girmez). Yoksa push kapalı."""
+    return os.environ.get("FIREBASE_SERVICE_ACCOUNT_FILE") or None

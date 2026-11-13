@@ -3,5 +3,9 @@ uvicorn[standard]
 httpx
 apscheduler>=3.10,<4
 tzdata
+google-auth
+requests
 pytest
 pytest-asyncio
+pypdf
+ 

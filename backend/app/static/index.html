@@ -25,6 +25,7 @@ form{display:grid;gap:8px}
 .badge{font-weight:600;white-space:nowrap}
 .badge.now{color:var(--ok)}
 .hidden{display:none}
+select{padding:4px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--text);font:inherit}
 .notif{padding:6px 0;border-top:1px solid var(--line)}
 .notif:first-child{border-top:0}
 h2{font-size:1rem;margin:0 0 8px}
@@ -47,6 +48,10 @@ h2{font-size:1rem;margin:0 0 8px}
     <div class="row" style="margin-bottom:12px">
       <span class="muted" id="who"></span>
       <button class="ghost" id="logout">Çıkış</button>
+    </div>
+
+    <div class="card">
+      <label class="row"><span>Bildirimleri aç</span><input type="checkbox" id="notifOn" checked style="width:auto"></label>
     </div>
 
     <div class="card">
@@ -115,6 +120,7 @@ function setUser(user) {
   if (user) {
     $('who').textContent = user.email;
     loadStops();
+    loadProfile();
     timer = setInterval(() => { if (!document.hidden) refreshAll(); }, REFRESH_MS);
   } else {
     stops = []; $('stops').replaceChildren();
@@ -130,7 +136,7 @@ $('loginForm').addEventListener('submit', async (e) => {
 $('logout').addEventListener('click', () => sb.auth.signOut());
 
 async function loadStops() {
-  const { data, error } = await sb.from('favorite_stops').select('id,durak_no,ad').order('created_at');
+  const { data, error } = await sb.from('favorite_stops').select('id,durak_no,ad,bildirim_dk').order('created_at');
   if (error) { $('addErr').textContent = 'Duraklar okunamadı: ' + error.message; return; }
   stops = data;
   render();
@@ -141,12 +147,7 @@ async function loadNotifications() {
   const { data, error } = await sb.from('notifications')
     .select('mesaj,created_at').order('created_at', { ascending: false }).limit(5);
   const box = $('notifs');
-  if (error) {
-    console.error('notifications hatası:', error);
-    box.className = 'err';
-    box.textContent = 'Bildirimler okunamadı: ' + error.message;
-    return;
-  }
+  if (error) { box.className = 'err'; box.textContent = 'Bildirimler okunamadı: ' + error.message; return; }
   if (!data || data.length === 0) { box.className = 'muted'; box.textContent = 'Henüz bildirim yok.'; return; }
   box.className = '';
   box.replaceChildren(...data.map((n) => el('div', { className: 'notif' },
@@ -165,12 +166,33 @@ function render() {
     const head = el('div', { className: 'row' },
       el('div', {}, el('strong', { textContent: s.ad }), el('div', { className: 'muted', textContent: 'Durak ' + s.durak_no })),
       del);
-    const card = el('div', { className: 'card' }, head, el('div', { style: 'height:8px' }), body);
+    const secenekler = [...new Set([5, 10, 15, 20, 30, s.bildirim_dk])].sort((x, y) => x - y);
+    const sel = el('select', {}, ...secenekler.map((o) => el('option', { value: String(o), textContent: o + ' dk', selected: o === s.bildirim_dk })));
+    sel.addEventListener('change', () => setDk(s, Number(sel.value)));
+    const ayar = el('div', { className: 'muted', style: 'margin-top:8px' }, 'Otobüs durağa ', sel, ' kala haber ver');
+    const card = el('div', { className: 'card' }, head, ayar, el('div', { style: 'height:8px' }), body);
     s.body = body;
     box.append(card);
   }
   refreshAll();
 }
+
+async function setDk(s, dk) {
+  const { error } = await sb.from('favorite_stops').update({ bildirim_dk: dk }).eq('id', s.id);
+  if (error) { $('addErr').textContent = 'Süre kaydedilemedi: ' + error.message; loadStops(); return; }
+  s.bildirim_dk = dk;
+}
+
+async function loadProfile() {
+  const { data } = await sb.from('profiles').select('bildirim_acik').eq('id', currentUser.id).maybeSingle();
+  if (data) $('notifOn').checked = data.bildirim_acik;
+}
+
+$('notifOn').addEventListener('change', async (e) => {
+  const acik = e.target.checked;
+  const { error } = await sb.from('profiles').update({ bildirim_acik: acik }).eq('id', currentUser.id);
+  if (error) { $('addErr').textContent = 'Ayar kaydedilemedi: ' + error.message; e.target.checked = !acik; }
+});
 
 function refreshAll() { stops.forEach(refreshStop); if (currentUser) loadNotifications(); }
 

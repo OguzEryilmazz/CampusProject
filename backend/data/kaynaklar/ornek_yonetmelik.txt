@@ -1,0 +1,10 @@
+ÖRNEK METİN - GERÇEK BİR YÖNETMELİK DEĞİLDİR. Yalnızca RAG hattını denemek içindir.
+Gerçek yönetmelikleri (Ankara Üniversitesi web sitesindeki PDF/HTML) ekleyince bu dosyayı ve kaynaklar.json'daki satırını sil.
+
+ÖRNEK ÖNLİSANS VE LİSANS EĞİTİM-ÖĞRETİM YÖNETMELİĞİ
+
+Madde 1 – Bu metin yalnızca deneme amaçlı uydurulmuştur ve hiçbir hüküm taşımaz.
+
+Madde 2 – (Örnek) Mazeret sınavı: Haklı ve geçerli bir mazereti nedeniyle ara sınava giremeyen öğrenci, mazeretini sınav tarihinden itibaren X iş günü içinde dilekçe ile bildirir. X değeri bu örnekte uydurmadır.
+
+Madde 3 – (Örnek) Devam zorunluluğu: Öğrencinin derslere devam şartı bu örnekte uydurma bir oran olarak belirlenmiştir. Gerçek oran için resmi yönetmeliğe bakınız.
