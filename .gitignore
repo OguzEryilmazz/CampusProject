@@ -5,3 +5,5 @@ __pycache__/
 *.db-shm
 .env
 .pytest_cache/
+# Bologna ham API onbellegi (uretilebilir, ~15 MB+)
+backend/data/bologna/ham/
