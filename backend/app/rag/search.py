@@ -7,7 +7,7 @@ async def search(db, embedder, query, rol, fakulte, k=5):
     query = (query or "").strip()
     if not query:
         return []
-    vec = (await embedder.embed([query]))[0]
+    vec = (await embedder.embed([query], kind="query"))[0]
     rows = await db.match_chunks(vec, k, rol, fakulte)
     return [{
         "icerik": r["icerik"], "baslik": r["baslik"], "madde": r.get("madde"),

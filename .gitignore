@@ -5,3 +5,6 @@ __pycache__/
 *.db-shm
 .env
 .pytest_cache/
+tools/raw/
+tools/out/
+tools/probe_out/

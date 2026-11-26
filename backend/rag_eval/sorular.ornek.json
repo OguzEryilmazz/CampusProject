@@ -1,0 +1,17 @@
+[
+  {"soru": "mazeret sınavı için kaç gün içinde başvurulur", "tur": "ilgili",
+   "beklenen": [{"baslik": "ÖRNEK Yönetmelik", "madde": "Madde 2"}]},
+  {"soru": "ara sınava giremezsem ne yapmalıyım", "tur": "ilgili",
+   "beklenen": [{"baslik": "ÖRNEK Yönetmelik", "madde": "Madde 2"}]},
+  {"soru": "derslere devam zorunluluğu var mı", "tur": "ilgili",
+   "beklenen": [{"baslik": "ÖRNEK Yönetmelik", "madde": "Madde 3"}]},
+  {"soru": "devamsızlık sınırı nedir", "tur": "ilgili",
+   "beklenen": [{"baslik": "ÖRNEK Yönetmelik", "madde": "Madde 3"}]},
+
+  {"soru": "yarın hava durumu nasıl olacak", "tur": "alakasiz", "grup": "tamamen_alakasiz"},
+  {"soru": "en iyi pizza tarifi nedir", "tur": "alakasiz", "grup": "tamamen_alakasiz"},
+  {"soru": "bitcoin fiyatı ne kadar", "tur": "alakasiz", "grup": "tamamen_alakasiz"},
+  {"soru": "yemekhane hafta sonu açık mı", "tur": "alakasiz", "grup": "alan_ici_yok"},
+  {"soru": "yurt başvurusu ne zaman yapılır", "tur": "alakasiz", "grup": "alan_ici_yok"},
+  {"soru": "burs başvuru koşulları nelerdir", "tur": "alakasiz", "grup": "alan_ici_yok"}
+]
