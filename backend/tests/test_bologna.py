@@ -154,7 +154,7 @@ def test_rag_donustur_yeniden_calistirinca_eski_metin_kalmaz(veri, sahte_post):
 
 
 class FakeEmbedder:
-    async def embed(self, texts):
+    async def embed(self, texts, kind="document"):
         return [[0.1, 0.2] for _ in texts]
 
 
