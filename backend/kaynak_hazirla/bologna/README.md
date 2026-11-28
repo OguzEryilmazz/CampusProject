@@ -34,7 +34,10 @@ python -m kaynak_hazirla.bologna.rag_donustur          # varsayılan: yalnızca 
 python -m app.rag.ingest --config data/kaynaklar_bologna.json
 ```
 
-Tüm lisans mühendislik programları: `cek --fakulte "Mühendislik Fakültesi" --duzey Lisans`.
+Hızlı mod (RAG için yeterli): `cek --fakulte "Mühendislik Fakültesi" --duzey Lisans --sadece-liste` ders ayrıntısı çekmez,
+program başına 2 istek atar. Ders ayrıntısı (`dersler.jsonl`) yalnızca istendiğinde, tek program için çekilir.
+
+Tüm lisans mühendislik programları (ayrıntılı, yavaş): `cek --fakulte "Mühendislik Fakültesi" --duzey Lisans`.
 İkinci çalıştırma `ham/` önbelleğinden gelir; yeni veri için `ham/` içindeki ilgili dosyayı (ya da klasörü) sil.
 
 ## RAG'a ne girer, ne girmez

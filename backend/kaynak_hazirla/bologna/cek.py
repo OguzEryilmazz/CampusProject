@@ -202,6 +202,9 @@ def main(argv=None, veri=None):
     ap.add_argument("--liste-yolu", default=os.environ.get("BOLOGNA_LISTE_YOLU") or ortak.DERS_LISTESI_YOLU,
                     help="ders listesi API yolu (ortak.py içinde ya da BOLOGNA_LISTE_YOLU)")
     ap.add_argument("--en-fazla", type=int, default=0, help="deneme için: ilk N dersle sınırla")
+    ap.add_argument("--sadece-liste", action="store_true",
+                    help="ders ayrıntısı çekilmez: program başına 2 istek (program + ders listesi). "
+                         "program.json ve mufredat.json yazılır, mevcut dersler.jsonl'e dokunulmaz. Ayrıntı sonra, istendikçe çekilir.")
     a = ap.parse_args(argv)
     if not a.liste_yolu:
         sys.exit("Ders listesi yolu boş: ortak.py içindeki DERS_LISTESI_YOLU'nu doldurun ya da --liste-yolu verin.")
@@ -267,6 +270,12 @@ def main(argv=None, veri=None):
 
         ctx = {"program": ad, "program_id": pid, "fakulte": fakulte, "duzey": duzey, "yil": a.yil,
                "program_url": program_url(duzey, fakulte, ad)}
+        if a.sadece_liste:
+            dizin.mkdir(parents=True, exist_ok=True)
+            yaz_json(dizin / "program.json", kayit_program(pb, ad, ctx))
+            yaz_json(dizin / "mufredat.json", kayit_mufredat(liste, ctx))
+            print("  program ve müfredat yazıldı (ders ayrıntısı çekilmedi)")
+            continue
         kayitlar, eksik, hatali = [], [], []
         for n, d in enumerate(tekil, 1):
             kod = d.get("dersKodu") or "kodsuz"

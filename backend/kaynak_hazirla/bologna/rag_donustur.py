@@ -132,7 +132,8 @@ def main(argv=None, backend=None):
     for d in klasorler:
         prog = json.loads((d / "program.json").read_text(encoding="utf-8"))
         muf = json.loads((d / "mufredat.json").read_text(encoding="utf-8"))
-        dersler = [json.loads(l) for l in (d / "dersler.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()]
+        dj = d / "dersler.jsonl"   # --sadece-liste ile çekilen programlarda yok; yalnızca "ders" türü için gerekir
+        dersler = [json.loads(l) for l in dj.read_text(encoding="utf-8").splitlines() if l.strip()] if dj.exists() else []
         ad, yil, p_url = prog["program"], prog["yil"], prog.get("kaynak_url")
         if not p_url:  # adres kalıbı doğrulanmamış düzey: kimlik için yine de benzersiz bir değer gerekir
             p_url = f"bologna:{d.name}"

@@ -185,3 +185,15 @@ def test_rag_donustur_varsayilan_ders_metni_uretmez(veri, sahte_post):
     kaynaklar = json.loads((backend / "data" / "kaynaklar_bologna.json").read_text(encoding="utf-8"))
     assert {k["tur"] for k in kaynaklar} == {"bologna_program", "bologna_mufredat"}
     assert not list((backend / "data" / "bologna" / "metin").rglob("ders-*.txt"))
+
+
+def test_sadece_liste_ders_istegi_atmaz_ve_rag_donusturulur(veri, sahte_post):
+    backend, v = veri
+    cek_calistir(v, "--sadece-liste")
+    d = v / "yapisal" / f"yazilim-muhendisligi-{PID[:8]}"
+    assert sahte_post == []                                              # hiç ders isteği yok
+    assert (d / "program.json").is_file() and (d / "mufredat.json").is_file()
+    assert not (d / "dersler.jsonl").exists()
+    rag_donustur.main(["--backend", str(backend)])
+    kaynaklar = json.loads((backend / "data" / "kaynaklar_bologna.json").read_text(encoding="utf-8"))
+    assert {k["tur"] for k in kaynaklar} == {"bologna_program", "bologna_mufredat"}
