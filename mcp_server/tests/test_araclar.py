@@ -69,3 +69,21 @@ def test_kimlik_basligi_yoksa_backend_cagrilmaz(sahte_backend, monkeypatch):
     istekler = sahte_backend(json_yanit({}))
     assert calistir(araclar.favori_duraklarim_getir())["hata_kodu"] == "KIMLIK_GEREKLI"
     assert istekler == []
+
+
+def test_ders_programi_bugun_icin_yalniz_o_gunu_ister(sahte_backend):
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    istekler = sahte_backend(json_yanit([{"gun": 1, "baslangic": "09:00:00", "bitis": "10:50:00", "baslik": "Algoritma", "yer": "B1"}]))
+    simdi = datetime(2026, 11, 23, 8, 0, tzinfo=ZoneInfo("Europe/Istanbul"))
+    c = calistir(araclar.ders_programim_getir("bugun", simdi))
+    assert istekler[0].url.path == "/me/schedule" and dict(istekler[0].url.params) == {"gun": "1"}
+    assert c["ilk_ders_baslangic"] == "09:00"
+    istekler.clear()
+    calistir(araclar.ders_programim_getir("hafta", simdi))
+    assert dict(istekler[0].url.params) == {}
+
+
+def test_ders_programi_hata_gövdesi(sahte_backend):
+    sahte_backend(json_yanit({"detail": "x"}, 401))
+    assert calistir(araclar.ders_programim_getir("bugun"))["hata_kodu"] == "TOKEN_GECERSIZ"

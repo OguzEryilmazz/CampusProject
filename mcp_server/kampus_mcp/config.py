@@ -1,6 +1,7 @@
 """Ortam değişkenlerinden yapılandırma. Zorunlu ayar eksikse sunucu başlamaz.
 Bu serviste gizli anahtar yoktur: yalnızca backend adresi gerekir."""
 import os
+from zoneinfo import ZoneInfo
 
 
 def _zorunlu(ad: str) -> str:
@@ -21,3 +22,5 @@ MAX_ARAC = 10          # bir durak için döndürülen en fazla araç
 MAX_BILDIRIM = 20
 MAX_ARAMA_SONUCU = 8
 ICERIK_MAX_KARAKTER = 700
+
+TZ = ZoneInfo("Europe/Istanbul")  # backend scheduler.py ile aynı; gun alanı isoweekday (1=Pzt … 7=Paz)

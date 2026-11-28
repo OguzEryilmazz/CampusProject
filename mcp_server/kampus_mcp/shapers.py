@@ -1,6 +1,10 @@
 """Backend yanıtlarını modelin bağlamına uygun, küçük ve tutarlı gövdelere çevirir (rehber 6.1, 6.3).
 Saf fonksiyonlardır; ağ erişimi yoktur."""
+from datetime import datetime, timedelta
+
 from . import config
+
+GUN_ADLARI = {1: "Pazartesi", 2: "Salı", 3: "Çarşamba", 4: "Perşembe", 5: "Cuma", 6: "Cumartesi", 7: "Pazar"}
 
 
 def _arac(v: dict) -> dict:
@@ -102,4 +106,41 @@ def arama(sonuc: dict, limit: int) -> dict:
         "kesildi": len(hits) > len(secilen),
         "not": "Benzerlik puanı mutlak güven değildir; 'kaynakta yok' eşiği henüz ayarlanmadı. "
                "Sonuçlar soruyu karşılamıyorsa bunu kullanıcıya söyle, uydurma.",
+    }
+
+
+def _saat(v) -> str:
+    return str(v)[:5]  # "09:00:00" -> "09:00"
+
+
+def _ders(d: dict) -> dict:
+    return {"baslangic": _saat(d.get("baslangic")), "bitis": _saat(d.get("bitis")),
+            "baslik": d.get("baslik"), "yer": d.get("yer")}
+
+
+def _siralli(items: list[dict]) -> list[dict]:
+    return sorted(items, key=lambda d: str(d.get("baslangic")))
+
+
+def hedef_gun(kapsam: str, now: datetime) -> tuple[int, str]:
+    """'bugun' / 'yarin' için (gun_no, tarih). Gün numarası isoweekday'dir, Pazar'dan sonra Pazartesi gelir."""
+    gun = now + timedelta(days=1) if kapsam == "yarin" else now
+    return gun.isoweekday(), gun.date().isoformat()
+
+
+def ders_programi(items: list[dict], kapsam: str, now: datetime) -> dict:
+    if kapsam == "hafta":
+        gunler = []
+        for no in range(1, 8):
+            dersler = _siralli([i for i in items if i.get("gun") == no])
+            if dersler:
+                gunler.append({"gun_no": no, "gun_adi": GUN_ADLARI[no], "dersler": [_ders(d) for d in dersler]})
+        return {"kapsam": "hafta", "toplam_ders": len(items), "gunler": gunler}
+    no, tarih = hedef_gun(kapsam, now)
+    dersler = _siralli([i for i in items if i.get("gun") == no])
+    return {
+        "kapsam": kapsam, "tarih": tarih, "gun_no": no, "gun_adi": GUN_ADLARI[no],
+        "toplam_ders": len(dersler),
+        "ilk_ders_baslangic": _saat(dersler[0]["baslangic"]) if dersler else None,
+        "dersler": [_ders(d) for d in dersler],
     }

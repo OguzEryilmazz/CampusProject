@@ -55,3 +55,10 @@ def test_dogrulama_onbellege_alinir_gecersiz_alinmaz(sahte_backend):
     kotu = {"Authorization": "Bearer bozuk-token-123456"}
     c.post("/mcp", headers=kotu); c.post("/mcp", headers=kotu)
     assert len(istekler) == 3  # geçersiz token her seferinde yeniden sorulur
+
+
+def test_profili_olmayan_ama_gecerli_token_gecer(sahte_backend):
+    # /me 404 = token geçerli, profil satırı yok. 503 değil, istek içeri alınmalı.
+    sahte_backend(backend({"Bearer profilsiz-token-12345": 404}))
+    r = TestClient(uygulama()).post("/mcp", headers={"Authorization": "Bearer profilsiz-token-12345"})
+    assert r.status_code == 200

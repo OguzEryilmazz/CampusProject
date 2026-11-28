@@ -83,7 +83,8 @@ async def token_dogrula(auth: str) -> None:
     if _dogrulanan.get(anahtar, 0) > simdi:
         return
     yanit = await _istek("/me", auth)
-    hata = _hataya_cevir(yanit.status_code)
+    # 404: token geçerli ama profil satırı yok. Kimlik doğrulandı, araçlar kendi cevabını verir.
+    hata = None if yanit.status_code == 404 else _hataya_cevir(yanit.status_code)
     if hata:
         raise hata
     if len(_dogrulanan) > 1000:

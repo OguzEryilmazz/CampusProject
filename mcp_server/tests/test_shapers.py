@@ -49,3 +49,41 @@ def test_arama_uzun_metni_kirpar_ve_isaretler():
 def test_arama_bos_sonuc():
     c = shapers.arama({"sonuclar": []}, 5)
     assert c["toplam_kayit"] == 0 and c["sonuclar"] == []
+
+
+# ---- ders programı ----
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+TZ = ZoneInfo("Europe/Istanbul")
+PROGRAM = [
+    {"gun": 1, "baslangic": "13:00:00", "bitis": "14:50:00", "baslik": "Veritabanı", "yer": "B-204"},
+    {"gun": 1, "baslangic": "09:00:00", "bitis": "10:50:00", "baslik": "Algoritma", "yer": None},
+    {"gun": 3, "baslangic": "10:00:00", "bitis": "11:50:00", "baslik": "Ağlar", "yer": "A-1"},
+]
+
+
+def test_bugun_dersleri_saate_gore_siralar_ve_saati_kisaltir():
+    c = shapers.ders_programi(PROGRAM, "bugun", datetime(2026, 11, 23, 8, 0, tzinfo=TZ))  # Pazartesi
+    assert c["gun_no"] == 1 and c["gun_adi"] == "Pazartesi" and c["tarih"] == "2026-11-23"
+    assert [d["baslik"] for d in c["dersler"]] == ["Algoritma", "Veritabanı"]
+    assert c["ilk_ders_baslangic"] == "09:00" and c["dersler"][0]["bitis"] == "10:50"
+    assert c["dersler"][0]["yer"] is None and c["toplam_ders"] == 2
+
+
+def test_dersi_olmayan_gun_bos_liste_ve_null_doner():
+    c = shapers.ders_programi(PROGRAM, "bugun", datetime(2026, 11, 24, 8, 0, tzinfo=TZ))  # Salı
+    assert c["dersler"] == [] and c["toplam_ders"] == 0 and c["ilk_ders_baslangic"] is None
+
+
+def test_yarin_pazardan_pazartesiye_sarar():
+    now = datetime(2026, 11, 29, 20, 0, tzinfo=TZ)  # Pazar
+    assert shapers.hedef_gun("bugun", now) == (7, "2026-11-29")
+    assert shapers.hedef_gun("yarin", now) == (1, "2026-11-30")
+    assert shapers.ders_programi(PROGRAM, "yarin", now)["toplam_ders"] == 2
+
+
+def test_hafta_yalniz_dersi_olan_gunleri_listeler():
+    c = shapers.ders_programi(PROGRAM, "hafta", datetime(2026, 11, 23, 8, 0, tzinfo=TZ))
+    assert [g["gun_no"] for g in c["gunler"]] == [1, 3] and c["toplam_ders"] == 3
+    assert c["gunler"][0]["dersler"][0]["baslik"] == "Algoritma"
