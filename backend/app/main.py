@@ -19,8 +19,8 @@ from .ego import EgoClient, EgoError
 from .push import FcmSender, service_account_provider
 from .rag.embeddings import make_embedder
 from .rag.search import search as rag_search
-from .schemas import (ArrivalsOut, HealthOut, NotificationOut, ProfileOut, SearchOut, StopOut,
-                      TokenOut)
+from .schemas import (ArrivalsOut, HealthOut, NotificationOut, ProfileOut, ScheduleItemOut,
+                      SearchOut, StopOut, TokenOut)
 from .scheduler import TZ, safe_run
 
 VERSION = "0.4.0"
@@ -175,6 +175,12 @@ async def my_notifications(limit: int = Query(20, ge=1, le=100, description="En 
                            user: dict = Depends(get_current_user)):
     """Bana üretilen bildirimler, en yeniden eskiye. `sent_at` boşsa bildirim yalnızca kaydedilmiştir, push gitmemiştir."""
     return await _db().notifications_of(user["id"], limit)
+
+@app.get("/me/schedule", tags=["Kullanıcı"], response_model=list[ScheduleItemOut], summary="Ders programım")
+async def my_schedule(gun: int | None = Query(None, ge=1, le=7, description="1=Pazartesi … 7=Pazar. Boşsa tüm hafta."),
+                      user: dict = Depends(get_current_user)):
+    """Giriş yapan kullanıcının ders programı, gün ve başlangıç saatine göre sıralı. Yalnızca kendi satırları döner."""
+    return await _db().schedule_of(user["id"], gun)
 
 
 # ---------------------------------------------------------------- Duraklar

@@ -81,3 +81,13 @@ class SearchHit(BaseModel):
 
 class SearchOut(BaseModel):
     sonuclar: list[SearchHit]
+
+
+class ScheduleItemOut(BaseModel):
+    """Kullanıcının ders programındaki bir satır."""
+    id: int
+    gun: int = Field(description="Haftanın günü: 1=Pazartesi … 7=Pazar (isoweekday).", examples=[1])
+    baslangic: str = Field(description="Başlangıç saati (Europe/Istanbul).", examples=["09:00:00"])
+    bitis: str = Field(description="Bitiş saati (Europe/Istanbul).", examples=["10:50:00"])
+    baslik: str = Field(examples=["Algoritma ve Programlama"])
+    yer: str | None = Field(None, examples=["B-204"])

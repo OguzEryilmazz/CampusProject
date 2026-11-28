@@ -103,6 +103,14 @@ class Db:
         return await self._get("notifications", {
             "user_id": f"eq.{user_id}", "order": "created_at.desc", "limit": str(limit),
             "select": "id,durak_no,mesaj,dakika,araclar,created_at,sent_at"})
+        
+    async def schedule_of(self, user_id, gun=None):
+        """Kullanıcının ders programı (haftalık satırlar). gun verilirse yalnızca o gün (1=Pzt … 7=Paz)."""
+        params = {"user_id": f"eq.{user_id}", "select": "id,gun,baslangic,bitis,baslik,yer",
+                  "order": "gun.asc,baslangic.asc"}
+        if gun is not None:
+            params["gun"] = f"eq.{gun}"
+        return await self._get("schedule_items", params)
 
     # ---- RAG ----
     @staticmethod
