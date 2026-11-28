@@ -247,7 +247,8 @@ def main(argv=None, veri=None):
         liste = lr.get("data")
         if not liste:
             print(f"  ders listesi alınamadı: HTTP {lr.get('http', '?')} {lr.get('message') or '(boş yanıt)'} "
-                  f"[yol: {a.liste_yolu}] -> yol yanlış olabilir (404/405)")
+                  f"[yol: {a.liste_yolu}, success={lr.get('success')}, "
+                  f"yanıt: {json.dumps(lr, ensure_ascii=False)[:200]}]")
             continue
 
         # Aynı dersi (aynı id) birden fazla grupta listelemiş olabilir. Bazı satırlarda id null:
