@@ -85,7 +85,7 @@ def post(path, payload, retries=3):
     raise RuntimeError(f"{path} başarısız: {last!r}")
 
 
-def cached(ham, name, path, payload):
+def cached(ham, name, path, payload, hata_sakla=True):
     """Yanıtı ham/ altında saklar. Kalıcı 4xx cevapları da saklanır (ikinci kez sorulmaz)."""
     fn = Path(ham) / (name + ".json")
     if fn.exists():
@@ -94,6 +94,8 @@ def cached(ham, name, path, payload):
         obj = post(path, payload)
     except KaliciHata as e:
         obj = {"data": None, "success": False, "message": e.mesaj, "http": e.kod}
+        if not hata_sakla:  # yanlış yol/ayar hatası önbelleğe girip sonraki denemeleri bozmasın
+            return obj
     fn.parent.mkdir(parents=True, exist_ok=True)
     fn.write_text(json.dumps(obj, ensure_ascii=False), encoding="utf-8")
     return obj
@@ -240,10 +242,12 @@ def main(argv=None, veri=None):
         print(f"== {ad} ({fakulte}, {duzey})")
         dizin = yapisal / (slug(ad) + "-" + pid[:8])
 
-        lr = cached(ham, f"liste/{pid}-{yil_no}", a.liste_yolu, {"Id": pid, "Yil": a.yil, "YilNo": yil_no})
+        lr = cached(ham, f"liste/{pid}-{yil_no}", a.liste_yolu, {"Id": pid, "Yil": a.yil, "YilNo": yil_no},
+                    hata_sakla=False)
         liste = lr.get("data")
         if not liste:
-            print(f"  ders listesi alınamadı: {lr.get('message')}")
+            print(f"  ders listesi alınamadı: HTTP {lr.get('http', '?')} {lr.get('message') or '(boş yanıt)'} "
+                  f"[yol: {a.liste_yolu}] -> yol yanlış olabilir (404/405)")
             continue
 
         # Aynı dersi (aynı id) birden fazla grupta listelemiş olabilir. Bazı satırlarda id null:

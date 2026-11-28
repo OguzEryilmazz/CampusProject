@@ -11,7 +11,7 @@ VERI = BACKEND / "data" / "bologna"             # üretilen her şey burada (ham
 
 # Tarayıcıda (Network sekmesi) görülen "ders listesi" isteğinin yolu; gövde: Id, Yil, YilNo.
 # Boş bırakılırsa cek.py --liste-yolu ister (ya da BOLOGNA_LISTE_YOLU ortam değişkeni).
-DERS_LISTESI_YOLU = "/api/PublicMufredatDers/getPublicList"   # tools/scrape_bologna.py ile aynı; 795 satır döndüğü doğrulandı
+DERS_LISTESI_YOLU = ""   # DOLDURULMALI: tarayıcı Network sekmesindeki ders listesi isteğinin yolu (gövde: Id, Yil, YilNo)
 
 # Ders sayfası adresi (program adresi + ders adı) birkaç örnekle tarayıcıda doğrulanınca True yapın.
 DERS_URL_DOGRULANDI = False
