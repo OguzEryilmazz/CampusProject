@@ -26,7 +26,7 @@ değişirse burası elle güncellenmelidir.
 | `chunk_index` | integer | |
 | `madde` | text, null olabilir | Bologna parçalarında hep null |
 | `icerik`, `baslik` | text, NOT NULL | `icerik` başında `baslik` satırı var (`chunk_text` ekler) |
-| `embedding` | vector, NOT NULL | boyut: **doğrulanmadı** (README 1536 diyor) |
+| `embedding` | vector(1536), NOT NULL | boyut 26 Kasım'da doğrulandı; `embeddings.py` 1536 üretir |
 | `roller` | text[], NOT NULL | belgeden kopyalanır; filtre burada uygulanır |
 | `fakulte`, `kaynak_url` | text | |
 
@@ -35,6 +35,12 @@ değişirse burası elle güncellenmelidir.
 - `doc_chunks`: `doc_chunks_pkey`, `doc_chunks_document_id_chunk_index_key` (benzersiz),
   `doc_chunks_embedding_idx` = `hnsw (embedding vector_cosine_ops)`
 - `documents`: `documents_pkey`, `documents_kaynak_id_key` (benzersiz)
+
+## Kısıtlar
+
+- `documents`: PK `id`, `UNIQUE (kaynak_id)`. **`tur` üzerinde CHECK kısıtı yok**, `bologna_*` türleri yüklenebilir.
+- `doc_chunks`: PK `id`, `UNIQUE (document_id, chunk_index)`, `document_id` → `documents(id)` **ON DELETE CASCADE**
+  (belge silinince parçaları da gider).
 
 ## Arama fonksiyonu
 
