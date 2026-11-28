@@ -1,0 +1,13 @@
+YMH401 Mezuniyet Projesi I – zorunlu, 3 kredi, 5 AKTS
+YMH403 Yazılım Kalite Güvencesi Ve Testi – zorunlu, 3 kredi, 4 AKTS
+YMH405 İş Yeri Stajı – zorunlu, 0 kredi, 5 AKTS
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS
+YMH437 Bulut Bilişim – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH439 Doğal Dil İşleme – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH441 Nesnelerin İnterneti – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH443 Yazılım Üretimi Ve Değerlendirmesi – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH445 Blokzincir Teknolojileri – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH447 Büyük Veri Analitiği – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH449 Görüntü İşleme Teknikleri – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH451 E-Ticaret – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH453 Makine Öğrenmesi – seçmeli, grup: Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS

@@ -1,0 +1,11 @@
+CHM104 BASIC CHEMISTRY II – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+CHM110 BASIC CHEMISTRY LABORATORY II – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+CHM130 ORGANIC CHEMISTRY LABORATORY – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+CHM132 ORGANIC CHEMISTRY – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+ENG102 DEVELOPMENT OF  READING AND WRITING SKILLS IN ENGLISH II – zorunlu, 4 kredi, 2 AKTS
+HIS104 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+MTH0142 CALCULUS II – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+OUL102 TRANSITION TO UNIVERSITY LIFE AND LIFE SKILLS – zorunlu, 1 kredi, 2 AKTS
+PHY0106 PHYSICS II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+PHY0152 PHYSICS LABORATORY II – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+TUR174 TURKISH LANGUAGE II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi

@@ -1,0 +1,7 @@
+AZT1001 COMPUTER PROGRAMMING – zorunlu, 5 kredi, 7 AKTS, durum: acilmadi
+AZT1003 INTRODUCTION TO COMPUTER SCIENCE – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+AZT1005 PHYSICS I – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AZT1007 PHYSICS LABORATORY I – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+AZT1009 CALCULUS I – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AZT1011 DEVELOPMENT OF READING AND WRITING SKILLS IN ENGLISH I – zorunlu, 4 kredi, 2 AKTS, durum: acilmadi
+AZT1013 CURRENT APPROACHES IN INFORMATION TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi

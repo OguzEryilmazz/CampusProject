@@ -1,0 +1,10 @@
+ATA116 Atatürk İlkeleri Ve İnkılap Tarihi II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+MAT0120 Lineer Cebir – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+MAT0144 Matematik II – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+TDİ108 Türk Dili II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+UYM102 Üniversite Yaşamına Uyum Ve Yaşam Becerileri – zorunlu, 1 kredi, 2 AKTS
+YZM104 Ayrık Yapılar – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+YZM108 Veri Yapıları Ve Algoritmalar – zorunlu, 4 kredi, 7 AKTS, durum: acilmadi
+YDA102 Temel Yabancı Dil (Almanca) – seçmeli, grup: 2. Yarıyıl Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDF102 Temel Yabancı Dil (Fransızca) – seçmeli, grup: 2. Yarıyıl Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDİ102 Temel Yabancı Dil (İngilizce) – seçmeli, grup: 2. Yarıyıl Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi

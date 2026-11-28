@@ -1,0 +1,19 @@
+ENE409 ENERGY DESIGN PROJECT I – zorunlu, 4 kredi, 5 AKTS
+ENE411 Engıneerıng Laboratory 2 – zorunlu, 2 kredi, 4 AKTS
+ENE413 OCCUPATIONAL HEALTH AND SAFETY I – zorunlu, 1 kredi, 1 AKTS
+ENE497 SUMMER PRACTICE – zorunlu, 0 kredi, 5 AKTS
+EEE0403 SYSTEMS ENGINEERING – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+EEE409 INTRODUCTION MACHINE LEARNING – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE423 CONTROL SYSTEM ANALYSIS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS
+ENE465 ENERGY STORAGE DEVICES – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS
+ENE467 POLYMER TECHNOLOGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS
+ENE473 FUELS AND COMBUSTION – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE481 GAS DYNAMICS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+MTA4013 BIOMASS CONVERSION TECHNOLOGIES – seçmeli, grup: Enerji Alan Seçmeli Dersler, 2 kredi, 5 AKTS, durum: acilmadi
+MTA4015 INTRODUCTION TO ELECTRICAL POWER AND ENERGY METROLOGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 2 kredi, 5 AKTS, durum: acilmadi
+MTA4021 HYDROGEN AND FUEL CELL TECHNOLOGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 2 kredi, 5 AKTS, durum: acilmadi
+MTA4041 ENERGY STORAGE TECHNOLOGIES AND RENEWABLE ENRGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 2 kredi, 5 AKTS, durum: acilmadi
+ENE469 IONIC LIQUIDS IN THE BIOREFINERY CONCEPT – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS
+ENE483 THE FUNDAMENTALS OF ENERGY IN BUILDINGS – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS
+ENE485 PROCESS CONTROL – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS

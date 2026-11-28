@@ -1,0 +1,16 @@
+YZM495 Mezuniyet Projesi I – zorunlu, 3 kredi, 7 AKTS
+YZM497 Staj – zorunlu, 0 kredi, 7 AKTS
+YZM449 Biyobilişim – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+YZM451 Modellemeye Giriş – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+YZM453 Finans Teknolojileri – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM455 Blokzincirinin Temelleri Ve Uygulamaları – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+YZM457 Derin Pekiştirmeli Öğrenme – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM459 Sanal Ve Artırılmış Gerçeklik – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM461 Özel Konular I – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+YZM463 Kriptoloji – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM465 Veri Görselleştirme – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM467 Mikroişlemciler – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM469 Mobil Programlama – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM471 Otonom Sistemler – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+YZM473 Nesnelerin Yapay Zekası – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM475 Bilgisayarlı Görü – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS

@@ -1,0 +1,13 @@
+GEO450 GEOLOGY OF TÜRKİYE – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+GEO452 OCCUPATIONAL HEALTH AND SAFETY – zorunlu, 4 kredi, 4 AKTS, durum: acilmadi
+GEO454 GRADUATION PROJECT II – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+GEO0470 GEOCHEMICAL ANALYSIS TECHNIQUES – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0474 GEOGRAPHICAL INFORMATION SYSTEMS – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0478 HYDROGEOCHEMISTRY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0480 MACROPALEONTOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0482 METAMORPHIC PETROGRAPHY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0484 ORE MICROSCOPY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0488 RESERVOIR GEOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO0490 SEDIMENTARY PETROGRAPHY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO482 METAMORPHIC PETROGRAPHY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi
+GEO486 REMOTE SENSING IN GEOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 3 kredi, 5 AKTS, durum: acilmadi

@@ -1,0 +1,6 @@
+AAZE202 PRODUCTION, TRANSMISSION AND DISTRIBUTION OF ELECTRICITY – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AAZE204 ELECTRIC MACHINES 2 – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE206 ELECTROTECHNOLOGY – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE208 TECHNICAL MECHANICS – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AAZE210 ELECTRICAL AND ELECTRONIC DEVICES – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+AAZE212 MICROPROCESSOR TECHNOLOGY – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi

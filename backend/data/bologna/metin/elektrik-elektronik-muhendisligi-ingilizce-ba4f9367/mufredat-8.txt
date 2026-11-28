@@ -1,0 +1,20 @@
+EEE4002 PROJECT 2 – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+EEE4092 OCCUPATIONAL HEALTH AND SAFETY 2 – zorunlu, 1 kredi, 1 AKTS, durum: acilmadi
+COM4510 INFORMATION TECHNOLOGY AND SECURITY GOVERNANCE – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 6 AKTS, durum: acilmadi
+COM4514 SPECIAL TOPICS II – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 6 AKTS, durum: acilmadi
+COM4532 BLOCKCHAIN TECHNOLOGY AND PUBLIC LEDGERS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE0418 NONLINEAR CONTROL – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4004 BIOMEDICAL SYSTEMS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4006 ILLUMINATION TECHNIQUES AND INDOOR INSTALLATION – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4008 OPTOELECTRONICS 2 – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4010 SYSTEMS ENGINEERING – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4012 POWER TRANSMISSION SYSTEMS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4014 SENSORS AND TRANSDUCERS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4016 QUALITY MANAGEMENT – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4018 INFORMATION SYSTEM ARHITECTURES – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4020 BUSINESS MANAGEMENT – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4022 NUMERICAL METHODS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE424 INTRODUCTION TO POWER SYSTEM ANALYSIS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4422 DIGITAL COMMUNICATIONS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4444 INTRODUCTION TO ANTENNA DESIGN – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+EEE4474 DIGITAL TRANSFORMATION IN INDUSTRY – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi

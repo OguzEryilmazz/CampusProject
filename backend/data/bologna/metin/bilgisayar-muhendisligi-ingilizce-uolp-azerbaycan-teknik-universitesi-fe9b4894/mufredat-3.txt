@@ -1,0 +1,7 @@
+AZT2011 ADVANCED READİNG AND COMMUNİCATİON TECHNIQUES IN ENGLISH I – zorunlu, 4 kredi, 2 AKTS, durum: acilmadi
+AZT2031 DISCRETE STRUCTURES – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+AZT2041 PROGRAMMING LANGUAGE CONCEPTS – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AZT2067 DATA STRUCTURES – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AZT2075 DIGITAL LOGIC DESIGN – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AZT2537 INTRODUCTION TO WEB BASED PROGRAMMING – seçmeli, grup: 2. Sınıf Güz Yarıyılı Alan Seçmeli Ders, 3 kredi, 4 AKTS, durum: acilmadi
+AZT2553 FILE ORGANIZATION – seçmeli, grup: 2. Sınıf Güz Yarıyılı Alan Seçmeli Ders, 3 kredi, 4 AKTS, durum: acilmadi

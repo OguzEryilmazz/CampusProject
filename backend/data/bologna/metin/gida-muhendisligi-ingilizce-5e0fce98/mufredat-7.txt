@@ -1,0 +1,11 @@
+FDE429 CEREAL TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS
+FDE431 FRUIT AND VEGETABLE TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS
+FDE433 FOOD ENGINEERING LABORATORY OPERATIONS I – zorunlu, 2 kredi, 2 AKTS
+FDE437 FERMENTATION TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS
+FDE459 INTERNSHIP – zorunlu, 0 kredi, 5 AKTS
+FDE471 GRADUATION PROJECT I – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE479 PROCESS CONTROL – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+FDE473 SENSORY ANALYSIS – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE475 COLD PRESERVATION OF FOODS – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE477 SEAFOOD TECHNOLOGY – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS

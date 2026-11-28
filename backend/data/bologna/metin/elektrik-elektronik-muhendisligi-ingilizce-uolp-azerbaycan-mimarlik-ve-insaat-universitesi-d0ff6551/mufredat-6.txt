@@ -1,0 +1,12 @@
+AAZE302 COMMUNICATION THEORY I – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE304 FEEDBACK CONTROL SYSTEMS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE306 OPTOELECTRONICS 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE308 ELECTROMECHANICAL ENERGY CONVERSION 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE310 DIGITAL SIGNAL PROCESSING – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE312 EMBEDDED SYSTEMS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE314 ILLUMINATION TECHNIQUES AND INDOOR INSTALLATION – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE316 INTRODUCTION TO BIOMEDICAL ENGINEERING – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE318 MICROWAVES 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE320 CONTROL LABORATORY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 2 kredi, 2 AKTS, durum: acilmadi
+AAZE322 COMMUNICATIONS LABORATORY 1 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 1 kredi, 2 AKTS, durum: acilmadi
+AAZE324 MICROWAVE LABORATORY 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 1 kredi, 2 AKTS, durum: acilmadi

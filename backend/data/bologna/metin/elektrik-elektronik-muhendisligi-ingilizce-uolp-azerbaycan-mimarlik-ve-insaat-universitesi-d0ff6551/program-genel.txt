@@ -1,0 +1,6 @@
+Program: Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi)
+Birim: Mühendislik Fakültesi
+Düzey: Lisans
+Öğretim türü: Normal Öğretim
+Eğitim dili: İngilizce
+Eğitim yöntemi: Yüz Yüze Eğitim

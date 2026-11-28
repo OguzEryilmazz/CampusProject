@@ -1,0 +1,6 @@
+Öğrencilere aldıkları her ders için, aşağıdaki harf notlarından biri öğretim elemanı tarafından dönem sonu ders notu olarak takdir olunur. Harf notlarının puan karşılıkları ve katsayıları aşağıdaki tabloda verilmiştir:
+Puanlar Notlar Katsayılar90-100A4,0085-89B13,5080-84B23,2575-79B33,0070-74C12,7565-69C22,5060-64C32,0050-59F11,5049 ve aşağısıF20,00F30,00F40,00Bir öğrencinin bir yarıyılda/yılda aldığı derslerden (C3) 2,00 ve üstünde not aldığı dersler başarılı, (F1), (F2), (F3) ve (F4) aldıkları dersle başarısız sayılır.
+Kayıtlı olduğu programın tüm derslerini başarıyla tamamlayan ve genel akademik not ortalaması (C3) 2,00 ve üzerinde olan öğrenci diploma almaya hak kazanır.
+F3: Final sınavına girme hakkı olduğu halde sınava girmedi, başarısız.
+F4: Devamsızlık nedeniyle final sınavı ve bütünleme sınavına girme hakkı yok, başarısız.
+F1, F2, F3, F4 notları, not ortalamaları hesabında ilgili katsayılarına göre ortalamaya katılır.

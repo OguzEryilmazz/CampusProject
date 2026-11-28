@@ -1,0 +1,6 @@
+AAZE201 FUNDAMENTALS OF ELECTRICAL ENGINEERING 2 – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+AAZE203 POWER ELECTRONICS – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AAZE205 BUSINESS AND ACADEMIC COMMUNICATION IN A FOREIGN LANGUAGE 3 – zorunlu, 2 kredi, 6 AKTS, durum: acilmadi
+AAZE207 APPLIED MATHEMATICS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE209 ELECTRICAL AND ELECTRONIC EQUIPMENT MATERIALS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE211 ELECTRIC MACHINES 1 – zorunlu, 4 kredi, 4 AKTS, durum: acilmadi

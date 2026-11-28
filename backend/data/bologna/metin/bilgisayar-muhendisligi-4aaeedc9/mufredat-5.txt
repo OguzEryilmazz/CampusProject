@@ -1,0 +1,12 @@
+BLM3023 Mikroişlemciler Ve Gömülü Sistemler – zorunlu, 4 kredi, 6 AKTS
+BLM3033 İşletim Sistemleri – zorunlu, 4 kredi, 6 AKTS
+BLM3067 Algoritmalar – zorunlu, 4 kredi, 5 AKTS
+BLM3073 İş Sağlığı Ve Güvenliği I – zorunlu, 2 kredi, 2 AKTS
+ETK301 Bilimsel, Kültürel Ve Sosyal Etkinlikler – zorunlu, 0 kredi, 3 AKTS
+BLM3533 Sayısal Analiz Teknikleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS
+BLM3537 Bilgisayar Grafikleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3549 Paralel Veri İşleme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3551 Yapay Zeka – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS
+BLM3557 Veri İletişimi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS
+PFE005 Rehberlik Ve Özel Eğitim – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS
+PFE006 Eğitimde Ölçme Ve Değerlendirme – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS

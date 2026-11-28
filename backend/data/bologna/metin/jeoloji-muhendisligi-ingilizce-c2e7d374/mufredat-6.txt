@@ -1,0 +1,14 @@
+GEO322 GEOLOGICAL MAPPING – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+GEO324 ORE DEPOSITS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+GEO330 APPLIED GEOCHEMISTRY – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+GEO334 ROCK MECHANICS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+GEO346 SOIL MECHANICS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+PPL302 PROGRESS TO PROFESSIONAL LIFE – zorunlu, 1 kredi, 2 AKTS
+GEO0370 EARTH SYSTEM SCIENCE – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0372 PETROLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0374 COAL GEOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0376 SITE INVESTIGATION – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0378 RIVER BASINS OF TÜRKİYE AND THEIR HYDROLOGICAL CHARACTERISTICS – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0380 PALEOCLIMATOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0382 ENGINEERING ETHICS – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi
+GEO0386 PLANETARY GEOLOGY – seçmeli, grup: JEOLOJİ ALAN SEÇMELİ DERS GRUBU, 2 kredi, 3 AKTS, durum: acilmadi

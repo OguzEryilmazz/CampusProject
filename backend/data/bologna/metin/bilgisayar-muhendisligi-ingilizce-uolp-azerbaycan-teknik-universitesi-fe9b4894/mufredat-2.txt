@@ -1,0 +1,7 @@
+AZT1002 COMPUTER PRPGRAMMING II – zorunlu, 5 kredi, 6 AKTS, durum: acilmadi
+AZT1004 İNTRODUCTION TO DATA SCIENCE – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+AZT1006 PHYSICS II – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AZT1008 PHYSICS LABORATORY II – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+AZT1010 CALCULUS II – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AZT1012 LINEAR ALGEBRA – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AZT1014 DEVELOPMENT OF READING AND WRITING SKILLS IN ENGLISH II – zorunlu, 4 kredi, 2 AKTS, durum: acilmadi

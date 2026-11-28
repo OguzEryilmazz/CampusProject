@@ -1,0 +1,13 @@
+AAZE301 ELECTRONICS 2 – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE303 SIGNALS AND SYSTEMS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE305 MICROPROCESSORS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE307 ELECTROMECHANICAL ENERGY CONVERSION 1 – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE309 ELECTRONICS LABORATORY 2 – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+AAZE311 OPTOELECTRONICS 1 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE313 QUALITY MANAGEMENT – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE315 MODELING AND SIMULATION – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE317 GENERATION OF ELECTRICAL ENERGY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE319 MICROWAVES 1 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE321 OPTOELECTRONICS LABORATORY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 1 kredi, 2 AKTS, durum: acilmadi
+AAZE323 MICROWAVE LABORATORY 1 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 1 kredi, 2 AKTS, durum: acilmadi
+AAZE325 SENSORS AND TRANSDUCERS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi

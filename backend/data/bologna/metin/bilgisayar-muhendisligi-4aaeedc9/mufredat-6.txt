@@ -1,0 +1,13 @@
+BLM3032 Bilgisayar Ağları – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+BLM3066 Otomata Teorisi – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3070 Yazılım Mühendisliği – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3074 İş Sağlığı Ve Güvenliği II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+BLM3076 Bilgisayar Mimarisi – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+MYU302 Mesleki Yaşama Uyum – zorunlu, 1 kredi, 2 AKTS
+BLM3536 Sinyaller Ve Sistemler – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3542 İleri Algoritmalar – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3548 Örüntü Tanıma – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3576 Uzman Sistemler – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM3596 Bilgisayar Simülasyonu Ve Modelleme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+PFE007 Eğitim Psikolojisi – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 4 AKTS, durum: acilmadi
+PFE008 Öğretim Teknolojileri – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 2 kredi, 3 AKTS, durum: acilmadi

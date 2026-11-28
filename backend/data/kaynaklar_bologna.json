@@ -1,0 +1,2690 @@
+[
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-genel.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-hakkinda.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-amac.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-kayit_kabul_sartlari.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-ogretim_sureci.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-mezuniyet_kosulu.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-kazanilan_derece.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-ust_dereceye_gecis.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/program-yeterlilik_ozet.txt",
+    "baslik": "Bilgisayar Mühendisliği programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-1.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-2.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-3.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-4.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-5.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-6.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-7.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-4aaeedc9/mufredat-8.txt",
+    "baslik": "Bilgisayar Mühendisliği müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligi#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-genel.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-hakkinda.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-amac.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-kayit_kabul_sartlari.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-ogretim_sureci.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-mezuniyet_kosulu.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-kazanilan_derece.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-ust_dereceye_gecis.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/program-yeterlilik_ozet.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-1.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-2.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-3.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-4.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-5.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-6.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-7.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-15e1d13a/mufredat-8.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-genel.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-hakkinda.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-amac.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-kayit_kabul_sartlari.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-ogretim_sureci.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-mezuniyet_kosulu.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-kazanilan_derece.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-ust_dereceye_gecis.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/program-yeterlilik_ozet.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-1.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-2.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-3.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-4.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-5.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-6.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-7.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/bilgisayar-muhendisligi-ingilizce-uolp-azerbaycan-teknik-universitesi-fe9b4894/mufredat-8.txt",
+    "baslik": "Bilgisayar Mühendisliği (ingilizce) (uolp-azerbaycan Teknik Üniversitesi) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/bilgisayarmuhendisligiingilizceuolpazerbaycanteknikuniversitesi#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-genel.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-hakkinda.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-amac.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-kayit_kabul_sartlari.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-ogretim_sureci.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-mezuniyet_kosulu.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-kazanilan_derece.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-ust_dereceye_gecis.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/program-yeterlilik_ozet.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-1.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-2.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-3.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-4.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-5.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-6.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-7.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-19960a9e/mufredat-8.txt",
+    "baslik": "Biyomedikal Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-genel.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-hakkinda.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-amac.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-kayit_kabul_sartlari.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-ogretim_sureci.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-mezuniyet_kosulu.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-kazanilan_derece.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-ust_dereceye_gecis.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/program-yeterlilik_ozet.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/mufredat-1.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/mufredat-2.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/mufredat-3.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/biyomedikal-muhendisligi-ingilizce-uolp-suny-buffalo-b32ea0ae/mufredat-4.txt",
+    "baslik": "Biyomedikal Mühendisliği (İngilizce) (UOLP-SUNY Buffalo) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/biyomedikalmuhendisligiingilizceuolpsunybuffalo#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-genel.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-hakkinda.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-amac.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-kayit_kabul_sartlari.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-ogretim_sureci.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-mezuniyet_kosulu.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-kazanilan_derece.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-ust_dereceye_gecis.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/program-yeterlilik_ozet.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-1.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-2.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-3.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-4.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-5.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-6.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-7.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-ba4f9367/mufredat-8.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-genel.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-hakkinda.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-amac.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-kayit_kabul_sartlari.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-ogretim_sureci.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-mezuniyet_kosulu.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-kazanilan_derece.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-ust_dereceye_gecis.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/program-yeterlilik_ozet.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-1.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-2.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-3.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-4.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-5.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-6.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-7.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/elektrik-elektronik-muhendisligi-ingilizce-uolp-azerbaycan-mimarlik-ve-insaat-universitesi-d0ff6551/mufredat-8.txt",
+    "baslik": "Elektrik-Elektronik Mühendisliği (İngilizce) (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/elektrikelektronikmuhendisligiingilizceuolpazerbaycanmimarlikveinsaatuniversitesi#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-genel.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-hakkinda.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-amac.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-kayit_kabul_sartlari.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-ogretim_sureci.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-mezuniyet_kosulu.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-kazanilan_derece.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-ust_dereceye_gecis.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/program-yeterlilik_ozet.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-1.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-2.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-3.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-4.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-5.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-6.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-7.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/enerji-sistemleri-muhendisligi-ingilizce-6b52e44a/mufredat-8.txt",
+    "baslik": "Enerji Sistemleri Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/enerjisistemlerimuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-genel.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-hakkinda.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-amac.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-kayit_kabul_sartlari.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-ogretim_sureci.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-mezuniyet_kosulu.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-kazanilan_derece.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-ust_dereceye_gecis.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/program-yeterlilik_ozet.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-1.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-2.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-3.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-4.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-5.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-6.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-7.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/fizik-muhendisligi-ingilizce-9927ea57/mufredat-8.txt",
+    "baslik": "Fizik Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/fizikmuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-genel.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-hakkinda.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-amac.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-kayit_kabul_sartlari.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-ogretim_sureci.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-mezuniyet_kosulu.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-kazanilan_derece.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-ust_dereceye_gecis.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/program-yeterlilik_ozet.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-1.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-2.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-3.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-4.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-5.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-6.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-7.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/gida-muhendisligi-ingilizce-5e0fce98/mufredat-8.txt",
+    "baslik": "Gıda Mühendisliği (İngilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/gidamuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-genel.txt",
+    "baslik": "İnşaat Mühendisliği programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-hakkinda.txt",
+    "baslik": "İnşaat Mühendisliği programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-amac.txt",
+    "baslik": "İnşaat Mühendisliği programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-kayit_kabul_sartlari.txt",
+    "baslik": "İnşaat Mühendisliği programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "İnşaat Mühendisliği programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-ogretim_sureci.txt",
+    "baslik": "İnşaat Mühendisliği programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "İnşaat Mühendisliği programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-mezuniyet_kosulu.txt",
+    "baslik": "İnşaat Mühendisliği programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-kazanilan_derece.txt",
+    "baslik": "İnşaat Mühendisliği programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-ust_dereceye_gecis.txt",
+    "baslik": "İnşaat Mühendisliği programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "İnşaat Mühendisliği programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/program-yeterlilik_ozet.txt",
+    "baslik": "İnşaat Mühendisliği programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-1.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-2.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-3.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-4.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-5.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-6.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-7.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/insaat-muhendisligi-6b557aba/mufredat-8.txt",
+    "baslik": "İnşaat Mühendisliği müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/insaatmuhendisligi#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-genel.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-hakkinda.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-amac.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-kayit_kabul_sartlari.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-ogretim_sureci.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-mezuniyet_kosulu.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-kazanilan_derece.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-ust_dereceye_gecis.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/program-yeterlilik_ozet.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-1.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-2.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-3.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-4.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-5.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-6.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-7.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/jeofizik-muhendisligi-ingilizce-3ff44602/mufredat-8.txt",
+    "baslik": "Jeofizik Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeofizikmuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-genel.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-hakkinda.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-amac.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-kayit_kabul_sartlari.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-ogretim_sureci.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-mezuniyet_kosulu.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-kazanilan_derece.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-ust_dereceye_gecis.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/program-yeterlilik_ozet.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-1.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-2.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-3.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-4.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-5.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-6.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-7.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/jeoloji-muhendisligi-ingilizce-c2e7d374/mufredat-8.txt",
+    "baslik": "Jeoloji Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/jeolojimuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-genel.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-hakkinda.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-amac.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-kayit_kabul_sartlari.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-ogretim_sureci.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-mezuniyet_kosulu.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-kazanilan_derece.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-ust_dereceye_gecis.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/program-yeterlilik_ozet.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-1.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-2.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-3.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-4.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-5.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-6.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-7.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/kimya-muhendisligi-ingilizce-b30a0b9f/mufredat-8.txt",
+    "baslik": "Kimya Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/kimyamuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-genel.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-hakkinda.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-amac.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-kayit_kabul_sartlari.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-ogretim_sureci.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-mezuniyet_kosulu.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-kazanilan_derece.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-ust_dereceye_gecis.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/program-yeterlilik_ozet.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-1.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-2.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-3.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-4.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-5.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-6.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-7.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/makine-muhendisligi-ingilizce-e09229da/mufredat-8.txt",
+    "baslik": "Makine Mühendisliği (ingilizce) müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/makinemuhendisligiingilizce#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-genel.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-hakkinda.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-amac.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-kayit_kabul_sartlari.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-ogretim_sureci.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-mezuniyet_kosulu.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-kazanilan_derece.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-ust_dereceye_gecis.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/program-yeterlilik_ozet.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-1.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-2.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-3.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-4.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-5.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-6.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-7.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/yapay-zeka-ve-veri-muhendisligi-7759008f/mufredat-8.txt",
+    "baslik": "Yapay Zeka Ve Veri Mühendisliği müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yapayzekaveverimuhendisligi#mufredat-8"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-genel.txt",
+    "baslik": "Yazılım Mühendisliği programı – Genel bilgiler (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-genel"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-hakkinda.txt",
+    "baslik": "Yazılım Mühendisliği programı – Hakkında (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-hakkinda"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-amac.txt",
+    "baslik": "Yazılım Mühendisliği programı – Amaç (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-amac"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-kayit_kabul_sartlari.txt",
+    "baslik": "Yazılım Mühendisliği programı – Kayıt ve Kabul Şartları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-kayit_kabul_sartlari"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-onceki_ogrenmenin_taninmasi.txt",
+    "baslik": "Yazılım Mühendisliği programı – Önceki Öğrenmenin Tanınması (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-onceki_ogrenmenin_taninmasi"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-ogretim_sureci.txt",
+    "baslik": "Yazılım Mühendisliği programı – Öğretim Süreci (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-ogretim_sureci"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-sinav_degerlendirme_notlandirma.txt",
+    "baslik": "Yazılım Mühendisliği programı – Sınavlar, Değerlendirme ve Notlandırma (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-sinav_degerlendirme_notlandirma"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-mezuniyet_kosulu.txt",
+    "baslik": "Yazılım Mühendisliği programı – Mezuniyet Koşulları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-mezuniyet_kosulu"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-kazanilan_derece.txt",
+    "baslik": "Yazılım Mühendisliği programı – Kazanılan Derece (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-kazanilan_derece"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-ust_dereceye_gecis.txt",
+    "baslik": "Yazılım Mühendisliği programı – Üst Derece Programlarına Geçiş (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-ust_dereceye_gecis"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-mezunlarin_istihdam_alanlari.txt",
+    "baslik": "Yazılım Mühendisliği programı – Mezunların İstihdam Olanakları (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-mezunlarin_istihdam_alanlari"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/program-yeterlilik_ozet.txt",
+    "baslik": "Yazılım Mühendisliği programı – Program Yeterlilikleri (Özet) (2026 - 2027)",
+    "tur": "bologna_program",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#program-yeterlilik_ozet"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-1.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 1. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-1"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-2.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 2. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-2"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-3.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 3. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-3"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-4.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 4. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-4"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-5.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 5. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-5"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-6.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 6. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-6"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-7.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 7. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-7"
+  },
+  {
+    "dosya": "data/bologna/metin/yazilim-muhendisligi-a86f749d/mufredat-8.txt",
+    "baslik": "Yazılım Mühendisliği müfredatı (2026 - 2027) – 8. yarıyıl",
+    "tur": "bologna_mufredat",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://bologna.ankara.edu.tr/programlar/lisans/muhendislikfakultesi/yazilimmuhendisligi#mufredat-8"
+  }
+]

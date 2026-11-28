@@ -1,0 +1,6 @@
+AAZE101 CHEMISTRY – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AAZE103 BUSINESS AND ACADEMIC COMMUNICATION IN A FOREIGN LANGUAGE I – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+AAZE105 MATHEMATICAL ANALYSIS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE107 PHYSICS – zorunlu, 4 kredi, 8 AKTS, durum: acilmadi
+AAZE109 AZARBAIJAN HISTORY – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE111 BUSINESS AND ACADEMIC COMMUNICATION IN AZERBIJANI LANGUAGE – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi

@@ -1,0 +1,11 @@
+ATA116 Atatürk İlkeleri Ve İnkılap Tarihi II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FZM0106 Fizik II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+INS102 Statik – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+INS106 Bilgisayar Programlama – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+INS110 İnşaat Mühendisliğinde Jeoloji – zorunlu, 2 kredi, 4 AKTS, durum: acilmadi
+MAT0144 Matematik II – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+TDİ108 Türk Dili II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+UYM102 Üniversite Yaşamına Uyum Ve Yaşam Becerileri – zorunlu, 1 kredi, 2 AKTS
+YDA102 Temel Yabancı Dil (Almanca) – seçmeli, grup: 2. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDF102 Temel Yabancı Dil (Fransızca) – seçmeli, grup: 2. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDİ102 Temel Yabancı Dil (İngilizce) – seçmeli, grup: 2. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi

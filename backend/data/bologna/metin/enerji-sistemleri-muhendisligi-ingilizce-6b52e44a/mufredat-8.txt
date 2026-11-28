@@ -1,0 +1,17 @@
+ENE406 GRADUATION PROJECT – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+ENE410 ENERGY DESIGN PROJECT II – zorunlu, 5 kredi, 6 AKTS, durum: acilmadi
+ENE414 OCCUPATIONAL HEALTH AND SAFETY II – zorunlu, 1 kredi, 1 AKTS, durum: acilmadi
+EEE4426 INTRODUCTION TO INTERNET OF THINGS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+EEE474 DIGITAL TRANSFORMATION IN INDUSTRY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE464 CORROSION AND OXIDATION OF METALS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE468 ELECTRICAL AND MAGNETIC PROPERTIES OF MATERIALS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE470 FUNDAMENTALS OF ADVANCED ENERGY CONVERSION – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE476 NUCLEAR ENERGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE478 SOLAR ENERGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE480 GLASS SCIENCE AND TECHNOLOGY – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE482 TRANSPORT PHENOMENA – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE484 HARVESTING ENERGY FROM LIGNOCELLULOSIC BIOMASS – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+MTA468 FLIGHT GENERAL KNOWLEDGE – seçmeli, grup: Enerji Alan Seçmeli Dersler, 3 kredi, 4 AKTS, durum: acilmadi
+ENE462 SILICON TECHNOLOGY – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS, durum: acilmadi
+ENE488 HYDROPOWER – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS, durum: acilmadi
+ENE496 WIND ENERGY – seçmeli, grup: ENERJI ALAN SEÇMELI DERSLER 2, 3 kredi, 3 AKTS, durum: acilmadi

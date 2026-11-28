@@ -1,0 +1,6 @@
+AAZE102 FUNDAMENTALS OF ELECTRICAL ENGINEERING 1 – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AAZE104 ENGINEER AND COMPUTER GRAPHICS – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+AAZE106 LINEAR ALGEBRA AND ANALYTIC GEOMETRY – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+AAZE108 BUSINESS AND ACADEMIC COMMUNICATION IN A FOREIGN LANGUAGE 2 – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+AAZE110 CIVIL DEFENSE – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+AAZE112 ELECTRICAL MEASUREMENTS AND TOOLS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi

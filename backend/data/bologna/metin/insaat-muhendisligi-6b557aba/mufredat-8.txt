@@ -1,0 +1,35 @@
+INS402 Bitirme Projesi II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+INS404 Mühendislik Ekonomisi – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS406 Betonarme Sistem Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS408 Geoteknik Sistem Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS410 Çelik Sistem Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS412 Karayolu Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS414 Hidrolik Yapıların Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS416 Depreme Dayanıklı Yapı Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS418 Yığma Yapıların Analizi Ve Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS420 Ahşap Yapıların Analizi Ve Tasarımı – seçmeli, grup: İnşaat Mühendisliği Mesleki Seçmeli Dersler 8. YY, 3 kredi, 4 AKTS, durum: acilmadi
+INS422 Yenilenebilir Enerji Kaynakları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS424 Yenilenebilir Enerji Kaynakları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS426 Beton Ve Betonarme Yapılarda Kalıcılık – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS428 Betonarme Yüksek Yapılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS430 İnce Yapı – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS432 Öngerilmeli Betonarme Yapılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS434 Açık Kanal Hidroliği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS436 Temel İnşaatı – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS438 İnşaat Mühendisliği Uygulamalarında Geosentetikler – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS440 Taze Ve Sertleşmiş Beton Özellikleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS442 Hasarlı Yapıların Onarım Ve Güçlendirilmesi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS444 Yapı Denetimi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS446 Kazıklı Temeller – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS448 Kentsel Dönüşüm – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS450 Binalarla İlgili Mevzuat – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS452 Köprü Hidroliği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS454 Metraj Ve Hakediş – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS456 Kentiçi Ulaşım Sistemleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS458 İstinat Yapılarının Tasarımı – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS460 Hidrolojik Modelleme – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS462 Tarihi Yapıların Güçlendirilmesi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS464 Geoteknik Deprem Mühendisliği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS466 Yeraltı Suları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS468 İhale Mevzuatı – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS470 Sonlu Elemanlar Analizine Giriş – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi

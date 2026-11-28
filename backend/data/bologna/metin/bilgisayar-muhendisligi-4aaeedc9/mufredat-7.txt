@@ -1,0 +1,20 @@
+BLM4063 Mezuniyet Projesi I – zorunlu, 3 kredi, 7 AKTS
+BLM4097 Staj – zorunlu, 0 kredi, 7 AKTS
+BLM4541 Yapay Zeka Destekli Yazılım Geliştirme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4551 Mobil Cihazlar İçin Android İşletim Sistemi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4553 İleri Mikroişlemciler – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4555 RFID Ve Bilgisayar Uygulamaları – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4557 Robotik – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4559 Uzaktan Algılama – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4561 Bilgi Teknolojileri Yönetimi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4565 İleri İşletim Sistemleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4567 Bilgi Sistemleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4569 Veri Madenciliği – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4573 Yapay Sinir Ağları – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4575 Gömülü Sistem Programlama – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4577 Sistem Yönetimi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4579 Gerçek Zamanlı Sistemler – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4581 Ağ Tabanlı Teknolojiler Ve Uygulamaları – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4583 Nesne Yönelimli Yazılım Modelleme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+BLM4587 IOS İle Mobil Uygulama Geliştirme I – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS

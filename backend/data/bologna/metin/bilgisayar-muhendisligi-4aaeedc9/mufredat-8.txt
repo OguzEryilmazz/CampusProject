@@ -1,0 +1,17 @@
+BLM4064 Mezuniyet Projesi II – zorunlu, 3 kredi, 7 AKTS, durum: acilmadi
+BLM4080 Sayısal Görüntü İşleme – zorunlu, 4 kredi, 7 AKTS, durum: acilmadi
+BLM4552 Android İşletim Sistemi İle Uygulamalar Geliştirme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4556 Donanım Tasarım Dilleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4558 İleri Elektronik – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4560 Bilgi Teknolojileri Ve Güvenlik Yönetimi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4562 Kablosuz İletişim Ve Bilgisayar Ağları – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4566 Paralel Programlama – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4568 İleri Bilgisayar Ağları – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4572 Ağ Tabanlı Paralel Dağıtım Sistemleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4574 Karmaşık Ağlara Giriş – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4576 Gömülü Sistem Tasarımı – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4578 Mikroişlemci Arayüzleri – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4580 Bilgi Güvenliği – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4584 Bilgi Mühendisliği Ve Yönetimi – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4588 IOS İle Mobil Uygulama Geliştirme II – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+BLM4594 Doğal Dil İşleme – seçmeli, grup: Bilgisayar Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi

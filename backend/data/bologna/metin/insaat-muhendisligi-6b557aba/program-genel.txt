@@ -1,0 +1,6 @@
+Program: İnşaat Mühendisliği
+Birim: Mühendislik Fakültesi
+Düzey: Lisans
+Öğretim türü: Normal Öğretim
+Eğitim dili: Türkçe
+Eğitim yöntemi: Yüz Yüze Eğitim

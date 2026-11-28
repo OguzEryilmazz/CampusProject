@@ -1,0 +1,10 @@
+MEC208 THERMODYNAMICS II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC210 STRENGTH OF MATERIALS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC212 DYNAMICS – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC214 NUMERICAL ANALYSIS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+MEC216 MANUFACTURING PROCESSES – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC218 MACHINE LEARNING – seçmeli, grup: FIELD ELECTIVE COURSE, 2 kredi, 3 AKTS, durum: acilmadi
+MEC220 INTRODUCTION TO MATLAB – seçmeli, grup: FIELD ELECTIVE COURSE, 2 kredi, 3 AKTS, durum: acilmadi
+MEC222 ENGINEERING ETHICS – seçmeli, grup: FIELD ELECTIVE COURSE, 2 kredi, 3 AKTS, durum: acilmadi
+SHUE1015 HUMAN ANATOMY – seçmeli, grup: UNIVERSITY GENERAL OUT OF FIELD ELECTIVE COURSE GROUP, 2 kredi, 3 AKTS
+SHUE1016 FOOD HYGIENE AND SAFETY – seçmeli, grup: UNIVERSITY GENERAL OUT OF FIELD ELECTIVE COURSE GROUP, 2 kredi, 3 AKTS, durum: acilmadi

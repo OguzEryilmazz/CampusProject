@@ -1,0 +1,12 @@
+FDE340 FOOD CHEMISTRY AND BIOCHEMISTRY II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE344 PROCESS DESIGN – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+FDE356 FOOD ANALYSES – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+PPL302 PROGRESS TO PROFESSIONAL LIFE – zorunlu, 1 kredi, 2 AKTS
+FDE0328 INDUSTRIAL MICROBIOLOGY – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0330 FOOD BIOTECHNOLOGY – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0346 INTRODUCTION TO GRAPHICAL PROGRAMMING – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0348 FOOD PACKAGING – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0350 PHYSICAL PROPERTIES OF FOODS – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0352 BIOMATERIALS – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+PFE007 Eğitim Psikolojisi – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 4 AKTS, durum: acilmadi
+PFE008 Öğretim Teknolojileri – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 2 kredi, 3 AKTS, durum: acilmadi

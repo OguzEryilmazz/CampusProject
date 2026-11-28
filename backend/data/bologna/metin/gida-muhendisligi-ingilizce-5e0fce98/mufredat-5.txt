@@ -1,0 +1,12 @@
+FDE345 BUSINESS MANAGEMENT – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE347 INSTRUMENTAL ANALYSIS – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+FDE359 FOOD CHEMISTRY AND BIOCHEMISTRY I – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+FDE363 FOOD MICROBIOLOGY – zorunlu, 4 kredi, 4 AKTS, durum: acilmadi
+FDE365 MASS TRANSFER AND UNIT OPERATIONS – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+SCS301 SCIENTIFIC, CULTURAL AND SOCIAL ACTIVITIES – zorunlu, 0 kredi, 3 AKTS
+FDE0351 FOOD LEGISLATION – seçmeli, grup: Alan Seçmeli Ders Grubu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE0353 ENGLISH FOR BUSINESS LIFE – seçmeli, grup: Alan Seçmeli Ders Grubu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE0355 FOOD PLANT SANITATION – seçmeli, grup: Alan Seçmeli Ders Grubu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE0357 ADVANCED INFORMATICS AND APPLICATIONS – seçmeli, grup: Alan Seçmeli Ders Grubu, 3 kredi, 4 AKTS, durum: acilmadi
+PFE005 Rehberlik Ve Özel Eğitim – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS
+PFE006 Eğitimde Ölçme Ve Değerlendirme – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS

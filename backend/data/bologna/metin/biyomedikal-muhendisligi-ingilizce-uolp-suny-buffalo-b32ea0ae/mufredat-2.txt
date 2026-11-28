@@ -1,0 +1,10 @@
+BME1942 CELL BIOLOGY – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+BME1964 COMPUTER PROGRAMMING – zorunlu, 3 kredi, 2 AKTS, durum: acilmadi
+BME1982 COMPUTER GUIDED TECHNICAL DRAWING – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+ENG102 DEVELOPMENT OF  READING AND WRITING SKILLS IN ENGLISH II – zorunlu, 4 kredi, 2 AKTS
+HIS104 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+MTH0142 CALCULUS II – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+OUL102 TRANSITION TO UNIVERSITY LIFE AND LIFE SKILLS – zorunlu, 1 kredi, 2 AKTS
+PHY0144 PHYSICS II – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+PHY0152 PHYSICS LABORATORY II – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+TUR174 TURKISH LANGUAGE II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi

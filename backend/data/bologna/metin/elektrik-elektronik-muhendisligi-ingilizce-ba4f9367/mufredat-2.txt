@@ -1,0 +1,26 @@
+EEE1002 COMPUTER PROGRAMMING – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+EEE1004 DIGITAL LOGIC DESIGN – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+EEE1006 DIGITAL LOGIC DESIGN LABORATORY – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+MTH0102 CALCULUS II – zorunlu, 4 kredi, 7 AKTS, durum: acilmadi
+OUL102 TRANSITION TO UNIVERSITY LIFE AND LIFE SKILLS – zorunlu, 1 kredi, 2 AKTS
+PHY0108 PHYSICS II – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+TUR174 TURKISH LANGUAGE II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+ART108 PAINTING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART110 MUSIC – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART112 SCULPTURE – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART124 FOLK DANCE – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART132 DRAMA – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART134 21 ST CENTURY ART TERMS – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART136 JAZZ MUSIC – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART138 CONTEMPORARY THEATRE APPROACHES – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART140 ART PRACTICES WITH WASTE MATERIALS – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART142 CREATIVE WRITING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART164 MUSEUM TRAINING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+ART220 MODERN DANCE – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC152 BASKETBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC154 FITNESS – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC156 FOOTBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC158 WRESTLING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC160 ROCK CLIMBING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC162 SWIMMING – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi
+SSC164 VOLLEYBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler 2.Yy, 0 kredi, 2 AKTS, durum: acilmadi

@@ -1,0 +1,16 @@
+AAZE401 PROJECT I – zorunlu, 3 kredi, 10 AKTS, durum: acilmadi
+AAZE403 INTERNSHIP – zorunlu, 0 kredi, 6 AKTS, durum: acilmadi
+AAZE409 OCCUPATIONAL HEALTH AND SAFETY – zorunlu, 1 kredi, 1 AKTS, durum: acilmadi
+HIS103 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION I – zorunlu, 2 kredi, 2 AKTS
+TUR171 TURKISH LANGUAGE I – zorunlu, 2 kredi, 2 AKTS
+AAZE411 SYSTEMS ENGINEERING – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE413 NUMERICAL METHODS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE415 INTRODUCTION TO MACHINE LEARNING – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE417 POWER TRANSMISSION SYSTEMS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE419 HIGH VOLTAGE TECHNIQUES – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE421 COMPUTER CONTROLLED SYSTEMS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE423 POWER ELECTRONICS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE425 COMMUNICATION THEORY 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE427 MODERN CONTROL THEORY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE429 BIOMEDICAL SYSTEMS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE431 COMMUNICATIONS LABORATORY 2 – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 1 kredi, 2 AKTS, durum: acilmadi

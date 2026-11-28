@@ -1,0 +1,16 @@
+YZM105 Yapay Zeka Ve Veri Mühendisliğine Giriş -- listede id yok
+FMUS1056 Küresel İklim Değişikliği -- listede id yok
+SBUS1146 Senfonik Orkestra Çalgıları -- listede id yok
+SBUS1147 Klasik Müzikte Türler -- listede id yok
+SBUS1148 Müzik -- listede id yok
+SBUS1150 Güncel Sanat -- listede id yok
+SBUS1151 Müze Kültürü Ve Çağdaş Müzeler -- listede id yok
+SBUS1152 Sanat Felsefesi -- listede id yok
+SBUS1153 Popüler Kültür Ve Siyaset Tartışmaları -- listede id yok
+SBUS1154 Modern İran Tarihi -- listede id yok
+YBUS1021 Rus Halkbilimi -- listede id yok
+YZM329 Optimizasyona Giriş -- listede id yok
+YZM495 Mezuniyet Projesi I -- listede id yok
+YZM497 Staj -- listede id yok
+YZM496 Mezuniyet Projesi II -- listede id yok
+YZM442 Robotik -- listede id yok

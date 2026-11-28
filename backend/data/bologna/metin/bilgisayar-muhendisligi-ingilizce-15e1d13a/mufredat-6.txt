@@ -1,0 +1,16 @@
+COM3038 COMPUTER NETWORKS – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+COM3066 AUTOMATA THEORY – zorunlu, 3 kredi, 6 AKTS, durum: acilmadi
+COM3068 SOFTWARE ENGINEERING – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+COM3074 OCCUPATIONAL HEALTH AND SAFETY II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+COM3076 COMPUTER ARCHITECTURE – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+PPL302 PROGRESS TO PROFESSIONAL LIFE – zorunlu, 1 kredi, 2 AKTS
+BME3336 INTRODUCTION TO POLYMER ENGINEERING – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+BME3346 NANOMEDICINE – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+CEN3338 INTRODUCTION TO DYNAMIC SIMULATION – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+COM3536 SIGNALS AND SYSTEMS – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+COM3542 ADVANCED ALGORITHMS – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+COM3548 PATTERN RECOGNITION – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+COM3576 EXPERT SYSTEMS – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+COM3596 COMPUTER SIMULATION AND MODELING – seçmeli, grup: COMPUTER ENGINEERING TECHNICAL ELECTIVES 3’RD YEAR, 3 kredi, 4 AKTS, durum: acilmadi
+PFE007 Eğitim Psikolojisi – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 4 AKTS, durum: acilmadi
+PFE008 Öğretim Teknolojileri – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 2 kredi, 3 AKTS, durum: acilmadi

@@ -1,0 +1,11 @@
+MEC301 HEAT TRANSFER I – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+MEC303 FLUID MECHANICS I – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC305 MACHINE ELEMENTS I – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+MEC307 THEORY OF MACHINES I – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+MEC309 SUMMER PRACTICE I – zorunlu, 0 kredi, 1 AKTS, durum: acilmadi
+SCS301 SCIENTIFIC, CULTURAL AND SOCIAL ACTIVITIES – zorunlu, 0 kredi, 3 AKTS
+MEC311 MANUFACTURING ENGINEERING – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC313 ENGINEERING ECONOMY – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC315 ENGINEERING MATERIALS – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC317 FUEL CELL FUNDAMENTALS – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC319 CONTROL SYSTEMS – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 4 AKTS, durum: acilmadi

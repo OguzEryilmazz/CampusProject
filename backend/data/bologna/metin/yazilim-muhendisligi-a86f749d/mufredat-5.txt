@@ -1,0 +1,15 @@
+ETK301 Bilimsel, Kültürel Ve Sosyal Etkinlikler – zorunlu, 0 kredi, 3 AKTS
+YMH301 Yazılım Mimarisi – zorunlu, 3 kredi, 4 AKTS
+YMH303 Veri Tabanı Yönetim Sistemleri – zorunlu, 3 kredi, 6 AKTS
+YMH305 Algoritma Tasarımı Ve Analizi – zorunlu, 3 kredi, 5 AKTS
+PFE005 Rehberlik Ve Özel Eğitim – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS
+PFE006 Eğitimde Ölçme Ve Değerlendirme – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS
+YMH341 Programlama Dilleri – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH343 Bilgi Sistemleri Ve Güvenliği – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH347 Mikroişlemciler Ve Programlama – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH349 Mobil Programlama – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH351 İnsan Bilgisayar Etkileşimi – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH353 Dağıtık Yazılım Mühendisliği – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH355 Paralel Programlama – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS, durum: acilmadi
+YMH357 Grafik Programlama – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS
+YMH361 Yazılım Tasarım Örüntüleri – seçmeli, grup: Program 3. Sınıf Alan Seçmeli Dersleri, 3 kredi, 4 AKTS

@@ -1,0 +1,1 @@
+Fizik ilkelerini ve bu ilkelerden mühendislik uygulamalarına geçiş yollarını açıklar. Fizik mühendisliğiyle ilgili mühendislik problemlerini tanımlar. Matematik bilgisini etkin biçimde kullanarak fizik olaylarını irdeler. Fizik mühendisliği alanındaki karmaşık problemlerin çözümünde uygun teori ve yaklaşımları seçerek uygular.

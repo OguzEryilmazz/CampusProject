@@ -1,0 +1,8 @@
+MYU302 Mesleki Yaşama Uyum – zorunlu, 1 kredi, 2 AKTS
+YZM324 Derin Öğrenme – zorunlu, 4 kredi, 7 AKTS, durum: acilmadi
+YZM326 Büyük Veri Analitiği – zorunlu, 3 kredi, 7 AKTS, durum: acilmadi
+YZM328 İş Sağlığı Ve Güvenliği II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+YZM330 Veri Madenciliği – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM332 Çizge Makine Öğrenmesi – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM334 Açıklanabilir Yapay Zeka – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM336 Bilgisayar Ağları – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi

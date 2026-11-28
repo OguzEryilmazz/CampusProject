@@ -1,0 +1,11 @@
+ATA115 Atatürk İlkeleri Ve İnkılap Tarihi I – zorunlu, 2 kredi, 2 AKTS
+FZM0105 Fizik I – zorunlu, 3 kredi, 4 AKTS
+FZM0151 Fizik Laboratuvarı I – zorunlu, 1 kredi, 2 AKTS
+MAT0143 Matematik I – zorunlu, 4 kredi, 5 AKTS
+TDİ107 Türk Dili I – zorunlu, 2 kredi, 2 AKTS
+UYM101 Üniversite Yaşamına Uyum – zorunlu, 0 kredi, 0 AKTS
+YZM105 Yapay Zeka Ve Veri Mühendisliğine Giriş – zorunlu, 3 kredi, 6 AKTS
+YZM107 Programlamaya Giriş – zorunlu, 5 kredi, 7 AKTS
+YDA101 Temel Yabancı Dil (Almanca) – seçmeli, grup: 1. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS
+YDF101 Temel Yabancı Dil (Fransızca) – seçmeli, grup: 1. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS
+YDİ101 Temel Yabancı Dil (İngilizce) – seçmeli, grup: 1. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS

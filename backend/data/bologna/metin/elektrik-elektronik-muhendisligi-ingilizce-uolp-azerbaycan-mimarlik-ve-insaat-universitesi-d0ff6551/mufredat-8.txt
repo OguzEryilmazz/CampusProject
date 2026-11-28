@@ -1,0 +1,14 @@
+AAZE402 PROJECT 2 – zorunlu, 3 kredi, 10 AKTS, durum: acilmadi
+AAZE408 OCCUPATIONAL HEALTH AND SAFETY 2 – zorunlu, 1 kredi, 1 AKTS, durum: acilmadi
+HIS104 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+TUR174 TURKISH LANGUAGE II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+AAZE410 INFORMATION SYSTEM ARCHITECTURES – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE412 INTRODUCTION TO ESTIMATION – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE414 NONLINEAR CONTROL – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE416 ANTENNA THEORY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE418 CLOUD COMPUTING APPLICATIONS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE420 BUSINESS MANAGEMENT – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE422 INTRODUCTION TO POWER SYSTEM ANALYSIS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE424 DIGITAL TRANSFORMATION IN INDUSTRY – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE426 INTRODUCTION TO INTERNET OF THINGS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi
+AAZE428 DIGITAL COMMUNICATIONS – seçmeli, grup: Elektrik-Elektronik Mühendisliği Program 4. Sınıf Alan Seçmeli Dersleri, 3 kredi, 5 AKTS, durum: acilmadi

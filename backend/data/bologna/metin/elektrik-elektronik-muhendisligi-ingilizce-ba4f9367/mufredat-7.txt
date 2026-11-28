@@ -1,0 +1,21 @@
+EEE4001 PROJECT 1 – zorunlu, 3 kredi, 4 AKTS
+EEE4091 OCCUPATIONAL HEALTH AND SAFETY 1 – zorunlu, 1 kredi, 1 AKTS
+EEE4099 INTERNSHIP – zorunlu, 0 kredi, 5 AKTS
+COM3551 ARTIFICIAL INTELLIGENCE – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 4 AKTS
+COM4513 SPECIAL TOPICS I – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 6 AKTS, durum: acilmadi
+EEE4003 OPTOELECTRONICS 1 – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4005 OPTOELECTRONICS LABORATORY – seçmeli, grup: Fourth Year Technical Elective Courses, 1 kredi, 3 AKTS
+EEE4007 MODELING AND SIMULATION – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4009 MICROWAVES 2 – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4011 MICROWAVE LABORATORY 2 – seçmeli, grup: Fourth Year Technical Elective Courses, 1 kredi, 3 AKTS
+EEE4013 INTRODUCTION TO BIOMEDICAL ENGINEERING – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4015 INTRODUCTION TO INTERNET OF THINGS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4017 INTRODUCTION TO ESTIMATION – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4019 COMMUNICATIONS LABORATORY 2 – seçmeli, grup: Fourth Year Technical Elective Courses, 1 kredi, 3 AKTS
+EEE4409 INTRODUCTION TO MACHINE LEARNING – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4433 COMPUTER CONTROLLED SYSTEMS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4441 HIGH VOLTAGE TECHNIQUES – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4445 POWER ELECTRONICS – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4447 COMMUNICATION THEORY 2 – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS
+EEE4449 MODERN CONTROL THEORY – seçmeli, grup: Fourth Year Technical Elective Courses, 3 kredi, 5 AKTS, durum: acilmadi
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS

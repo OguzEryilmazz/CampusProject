@@ -1,0 +1,15 @@
+YZM436 Doğal Dil İşleme – zorunlu, 3 kredi, 7 AKTS, durum: acilmadi
+YZM496 Mezuniyet Projesi II – zorunlu, 3 kredi, 7 AKTS, durum: acilmadi
+YZM438 İnsan Bilgisayar Etkileşimi – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM440 Ontoloji Mühendisliği – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM442 Robotik – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM444 Kuantum Hesaplama – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM446 Siber Güvenlik – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM448 Özel Konular II – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM450 İşletim Sistemleri – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM452 Sufle Mühendisliği İle Programlama – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM454 Bulut Bilişim – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM456 Yapay Zeka Etiği – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM458 Bilgisayar Mimarisi – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM460 Sembolik Mantık – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM462 İnternet Programlama – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 4. Yıl, 3 kredi, 4 AKTS, durum: acilmadi

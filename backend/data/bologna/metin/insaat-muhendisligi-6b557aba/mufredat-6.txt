@@ -1,0 +1,21 @@
+INS302 Betonarme I – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+INS304 Zemin Mekaniği II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+INS306 Yapı Statiği II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+INS308 Hidroloji Ve Su Kaynakları – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+INS338 Ulaştırma Sistemleri Tasarımı – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+MYU302 Mesleki Yaşama Uyum – zorunlu, 1 kredi, 2 AKTS
+INS312 Sulama Sistemleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS314 Barajlar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS316 Su Getirme Ve Kanalizasyon – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS318 Çelik Ve Beton Kompozit Yapılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS320 Demiryolu – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS322 Beton Yollar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS324 Çelik Endüstriyel Yapılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS326 Kıyı Ve Liman Yapıları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS328 İş Hukuku – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS330 Sürdürülebilir Yapı Malzemeleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS332 İnşaat Makineleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS334 İnşaat Mühendisliğinde Bilgisayar Uygulamaları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS336 Coğrafi Bilgi Sistemleri Ve Uzaktan Algılamaya Giriş – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+PFE007 Eğitim Psikolojisi – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 4 AKTS, durum: acilmadi
+PFE008 Öğretim Teknolojileri – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 2 kredi, 3 AKTS, durum: acilmadi

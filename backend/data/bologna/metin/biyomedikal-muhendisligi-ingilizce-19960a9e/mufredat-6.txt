@@ -1,0 +1,19 @@
+BME320 BIOMEDICAL INSTRUMENTATION I – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+BME328 BIOFLUID MECHANICS – zorunlu, 3 kredi, 3 AKTS, durum: acilmadi
+BME330 BIOMEDICAL INSTRUMENTATION LABORATORY – zorunlu, 2 kredi, 4 AKTS, durum: acilmadi
+BME358 BIOMATERIALS AND BIOMECHANICS LABORATORY – zorunlu, 2 kredi, 3 AKTS, durum: acilmadi
+BME366 OCCUPATIONAL HEALTH AND SAFETY II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+PPL302 PROGRESS TO PROFESSIONAL LIFE – zorunlu, 1 kredi, 2 AKTS
+BME3306 ELECTROMAGNETICS – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3310 MEDICAL IMAGING (L) – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3314 MICROPROCESSORS – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3320 ELECTRONICS LABORATORY – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3330 THERMODYNAMICS – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3336 INTRODUCTION TO POLYMER ENGINEERING – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3338 BIOCOMPATIBILITY – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME3346 NANOMEDICINE – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME348 SYNTHETIC BIOLOGY – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+BME392 INTRODUCTION TO BIOROBOTICS – seçmeli, grup: TECHNICAL ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+EEE3328 DIGITAL SIGNAL PROCESSING – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 5 AKTS, durum: acilmadi
+PFE007 Eğitim Psikolojisi – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 3 kredi, 4 AKTS, durum: acilmadi
+PFE008 Öğretim Teknolojileri – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 6YY, 2 kredi, 3 AKTS, durum: acilmadi

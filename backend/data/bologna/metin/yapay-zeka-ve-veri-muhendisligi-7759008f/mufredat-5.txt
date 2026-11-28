@@ -1,0 +1,8 @@
+ETK301 Bilimsel, Kültürel Ve Sosyal Etkinlikler – zorunlu, 0 kredi, 3 AKTS
+YZM313 İleri Yapay Zeka – zorunlu, 3 kredi, 6 AKTS
+YZM323 İş Sağlığı Ve Güvenliği I – zorunlu, 2 kredi, 2 AKTS
+YZM325 Veritabanı Yönetim Sistemleri – zorunlu, 4 kredi, 7 AKTS
+YZM327 Yapay Zeka İçin Yazılım Mühendisliği – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS
+YZM329 Optimizasyona Giriş – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS
+YZM331 Görüntü İşleme – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS, durum: acilmadi
+YZM333 Gömülü Sistemler – seçmeli, grup: Yapay Zeka Ve Veri Müh. Teknik Seçmeli 3. Yıl, 3 kredi, 4 AKTS

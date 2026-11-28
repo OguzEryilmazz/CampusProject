@@ -1,0 +1,33 @@
+INS407 Yapı İşletmesi – zorunlu, 3 kredi, 3 AKTS
+INS411 Staj II – zorunlu, 0 kredi, 4 AKTS
+INS465 Çelik Yapılar – zorunlu, 3 kredi, 5 AKTS
+INS467 Mezuniyet Projesi I – zorunlu, 2 kredi, 2 AKTS
+INS469 Betonarme II – zorunlu, 3 kredi, 4 AKTS
+INS471 Temel Mühendisliği – zorunlu, 3 kredi, 4 AKTS
+INS4001 Performansa Dayalı Tasarım – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4003 Entegre Havza Yönetimi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4005 Atık Yönetimi Ve Geri Dönüşüm – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4007 Yapı Mühendisliğinde Bilgisayar Uygulamaları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4009 Hidrolik Mühendisliğinde Bilgisayar Uygulamaları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4011 Geoteknikte Bilgisayar Uygulamaları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4013 Zeminlerin İyileştirilmesi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4015 Çevre Geotekniği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4019 Drenaj Tekniği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4021 Yapı Malzemesi Olarak Ahşap – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS
+INS4023 Yapı Dinamiğine Giriş – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS4025 Tarihi Yapılarda Koruma İlkeleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS473 Hidroelektrik Tesisler – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS475 Hidrolojide İstatistiksel Yöntemler – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS477 Mühendislik Mekaniğinde Enerji Metotları – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS479 Taşıyıcı Sistem İlkeleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS481 Betonda Kimyasal Ve Mineral Katkılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS
+INS483 Yamaç Stabilitesi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS485 Depreme Dayanıklı Yapı Tasarımı – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS487 Yalıtım Sistemleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS
+INS489 Polimerler – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS491 Kompozit Malzemeye Giriş – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS493 İnşaat Mühendisliğinde Proje Yönetimi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS495 Kuyu Hidroliği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS497 Yapı Hasar Tespiti – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS
+INS499 Zemin Özellikleri Ve Deneysel Zemin Mekaniği – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 4. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+PFE009 Öğretmenlik Uygulaması – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 7YY, 5 kredi, 10 AKTS

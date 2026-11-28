@@ -1,0 +1,9 @@
+MEC302 HEAT TRANSFER II – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+MEC304 FLUID MECHANICS II – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+MEC306 MACHINE ELEMENTS II – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+MEC308 THEORY OF MACHINES II – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+PPL302 PROGRESS TO PROFESSIONAL LIFE – zorunlu, 1 kredi, 2 AKTS
+MEC310 INTRODUCTION TO FINITE ELEMENT ANALYSIS – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC312 TRANSPORT PHENOMENA – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC314 ADDITIVE MANUFACTURING – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi
+MEC316 STEAM GENERATOR AND HEAT EXCHANGER DESIGN – seçmeli, grup: FIELD ELECTIVE COURSE, 3 kredi, 5 AKTS, durum: acilmadi

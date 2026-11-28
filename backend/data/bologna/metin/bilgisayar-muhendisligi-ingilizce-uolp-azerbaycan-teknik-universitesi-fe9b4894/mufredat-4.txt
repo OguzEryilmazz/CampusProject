@@ -1,0 +1,8 @@
+AZT2010 DIFFERENTIAL EQUATIONS – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AZT2012 ADVANCED READING AND COMMUNICATION TECHNIQUES IN ENGLISH II – zorunlu, 4 kredi, 2 AKTS, durum: acilmadi
+AZT2044 OBJECT ORİENTED PROGRAMMING – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AZT2050 PROBABILITY AND STATISTIC – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+AZT2058 DATABASE MANAGEMENT – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+AZT2060 SCIENTIFIC PROGRAMMING – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+AZT2534 ELECTRONICS – seçmeli, grup: 2. Sınıf Güz Yarıyılı Alan Seçmeli Ders, 3 kredi, 4 AKTS, durum: acilmadi
+AZT2536 FUZZY LOGIC – seçmeli, grup: 2. Sınıf Güz Yarıyılı Alan Seçmeli Ders, 3 kredi, 4 AKTS, durum: acilmadi

@@ -1,0 +1,29 @@
+CHM121 GENERAL CHEMISTRY – zorunlu, 3 kredi, 4 AKTS
+CHM125 Chemistry Laboratory – zorunlu, 2 kredi, 3 AKTS
+ENE105 INTRODUCTION TO ENERGY ENGINEERING – zorunlu, 1 kredi, 1 AKTS
+ENE113 TECHNICAL DRAWING – zorunlu, 2 kredi, 2 AKTS
+ENG101 DEVELOPMENT OF  READING AND WRITING SKILLS IN ENGLISH I – zorunlu, 4 kredi, 2 AKTS
+HIS103 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION I – zorunlu, 2 kredi, 2 AKTS
+MTH0141 CALCULUS I – zorunlu, 4 kredi, 6 AKTS
+OUL101 ORIENTATION PROGRAMMING TO THE UNIVERSITY LIFE – zorunlu, 0 kredi, 0 AKTS
+PHY0143 PHYSICS I – zorunlu, 4 kredi, 6 AKTS
+TUR171 TURKISH LANGUAGE I – zorunlu, 2 kredi, 2 AKTS
+ART107 PAINTING – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART109 MUSIC – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS
+ART111 SCULPTURE – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART123 FOLK DANCE – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART131 DRAMA – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS
+ART133 BASIC ART TERMS – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART135 JAZZ HISTORY – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART137 THEATER HISTORY – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART139 ART WORK WITH WASTE MATERIALS – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART141 INTRODUCTION TO NARRATIVE – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART163 MUSEUM TRAINING – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+ART219 MODERN DANCE – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+SSC151 BASKETBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS
+SSC153 FITNESS – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+SSC155 FOOTBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+SSC157 WRESTLING – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+SSC159 ROCK CLIMBING – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS, durum: acilmadi
+SSC161 SWIMMING – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS
+SSC163 VOLLEYBALL – seçmeli, grup: Genel Sosyal Seçmeli Dersler, 0 kredi, 2 AKTS

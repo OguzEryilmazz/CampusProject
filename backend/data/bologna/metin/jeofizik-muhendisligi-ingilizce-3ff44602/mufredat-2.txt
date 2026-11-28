@@ -1,0 +1,12 @@
+GEOP104 INFORMATION AND COMUNICATION TECHNOLOGIES – zorunlu, 1 kredi, 1 AKTS, durum: acilmadi
+GEOP106 LINEAR ALGEBRA – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+GEOP182 NUMERICAL ANALYSIS AND PROGRAMMING – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+HIS104 ATATURK's PRINCIPLES AND HISTORY OF REVOLUTION II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+MTH0144 CALCULUS II – zorunlu, 4 kredi, 5 AKTS, durum: acilmadi
+OUL102 TRANSITION TO UNIVERSITY LIFE AND LIFE SKILLS – zorunlu, 1 kredi, 2 AKTS
+PHY0106 PHYSICS II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+PHY0152 PHYSICS LABORATORY II – zorunlu, 1 kredi, 2 AKTS, durum: acilmadi
+TUR174 TURKISH LANGUAGE II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+GEOP190 DISASTER MANAGEMENT – seçmeli, grup: GEOPHYSICAL ENGINEERING 1. YEAR FIELD ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+GEOP192 MINING LAWS – seçmeli, grup: GEOPHYSICAL ENGINEERING 1. YEAR FIELD ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi
+GEOP198 HISTORY OF SCIENCE – seçmeli, grup: GEOPHYSICAL ENGINEERING 1. YEAR FIELD ELECTIVE COURSES, 3 kredi, 4 AKTS, durum: acilmadi

@@ -1,0 +1,10 @@
+FDE412 MEAT TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE416 FATS AND OILS TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE434 FOOD ENGINEERING LABORATORY OPERATIONS II – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE452 DAIRY TECHNOLOGY – zorunlu, 2 kredi, 2 AKTS, durum: acilmadi
+FDE460 FOOD QUALITY CONTROL – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE472 GRADUATION PROJECT II – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+FDE474 OCCUPATIONAL HEALTH AND SAFETY – zorunlu, 4 kredi, 4 AKTS, durum: acilmadi
+FDE0448 PRINCIPLES OF NUTRITION – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0456 SUSTAINABILITY IN FOOD ENGINEERING – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi
+FDE0458 IMAGE ANALYSIS IN FOODS – seçmeli, grup: Alan Seçmeli Ders Grubu, 4 kredi, 5 AKTS, durum: acilmadi

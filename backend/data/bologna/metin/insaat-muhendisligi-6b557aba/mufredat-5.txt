@@ -1,0 +1,18 @@
+ETK301 Bilimsel, Kültürel Ve Sosyal Etkinlikler – zorunlu, 0 kredi, 3 AKTS
+INS301 Hidrolik – zorunlu, 3 kredi, 4 AKTS
+INS309 Staj I – zorunlu, 0 kredi, 1 AKTS
+INS333 Zemin Mekaniği I – zorunlu, 3 kredi, 5 AKTS
+INS335 Yapı Statiği I – zorunlu, 3 kredi, 5 AKTS
+INS337 Ulaşım Mühendisliği – zorunlu, 3 kredi, 4 AKTS
+INS339 Mühendisler İçin Sayısal Yöntemler – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS
+INS341 Su Arıtma Teknolojisi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS343 Toprak İşleri Ve Tünel – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS345 Prefabrik Yapılar – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS
+INS349 Trafik Tekniği Ve Analiz Yöntemleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS351 Beton Teknolojisi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS
+INS353 Çevre Hukuku – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS355 Çevre Teknolojisi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS357 Çevre Etki Değerlendirilmesi – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+INS359 Optimizasyon Teknikleri – seçmeli, grup: İnşaat Mühendisliği Teknik Seçmeli Dersler 3. Sınıf, 3 kredi, 4 AKTS, durum: acilmadi
+PFE005 Rehberlik Ve Özel Eğitim – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS
+PFE006 Eğitimde Ölçme Ve Değerlendirme – seçmeli, grup: Pedagojik Formasyon Eğitim Grubu 5YY, 3 kredi, 4 AKTS

@@ -1,0 +1,366 @@
+MAT0210 Diferansiyel Denklemler – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+YZM202 Sayısal Mantık Tasarımı – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+YZM206 Sayısal Analiz Yöntemleri – zorunlu, 3 kredi, 4 AKTS, durum: acilmadi
+YZM210 Esnek Hesaplama – zorunlu, 3 kredi, 5 AKTS, durum: acilmadi
+YZM212 Makine Öğrenmesi – zorunlu, 4 kredi, 6 AKTS, durum: acilmadi
+YDA202 Temel Yabancı Dil (Almanca) – seçmeli, grup: 4. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDF202 Temel Yabancı Dil (Fransızca) – seçmeli, grup: 4. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+YDİ202 Temel Yabancı Dil (İngilizce) – seçmeli, grup: 4. Yy Yabancı Dil Grubu, 4 kredi, 2 AKTS, durum: acilmadi
+EGUS1001 Hayat Boyu Öğrenme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1002 Eğitim Psikolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1003 Yenilikçi Öğretme Ve Öğrenme Teknolojileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1004 Açık Ve Uzaktan Eğitim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1005 Bilişim Etiği Ve Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1006 Okuma Kültürü Geliştirme Süreçleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1007 Eğitimde Ahlak Ve Etik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1008 Etkili Çalışma Stratejileri Ve Öğrenme Stilleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1009 Sanatı Anlamak – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1010 Eğitim Ve İstihdam – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1011 Öğretim Stratejileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1012 Eğitim Sosyolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1013 Bilim Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1014 Zihin Haritası Nasıl Oluştururum ? – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1015 Tartışma Tekniklerini Nasıl Kullanırım ? – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1016 Öykü Temelli Öğrenme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1017 Türk-Ermeni İlişkileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1018 Çevre Eğitimi Ve Sürdürülebilirlik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1019 Özel Eğitime Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1020 Anlambilim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1021 Sanat Eğitimine Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+EGUS1022 Sayı Hissi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+EGUS1023 İklim Değişimi Eğitimi Ve Çevre Paradigmaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1001 Astronominin Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1002 Kozmolojinin Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1003 Su Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1004 Doğanın İnsan Yaşamına Rehberliği: Biyomimikri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1005 İnsan Vücudu Ve Fiziksel Sistemler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1006 Türkiye Vejetasyonu – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1007 Deniz Biyolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1008 Araştırmacılar İçin İstatistik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1009 İstatistiki Düşünme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1010 Araştırma Tasarımı Ve Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1011 Rapor, Bilimsel Makale, Tez Yazma, Poster Hazırlama, Sözlü Sunum Hazırlama Ve Literatür Tarama – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1012 Proje Geliştirme Ve Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1013 Dijital Okuryazarlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1014 Kimyanın Hayatımıza Yansımaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1015 Geçmişten Günümüze Biyomalzemeler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1016 İnsan, Çevre Ve Kimya – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1017 Nanoteknoloji; Geçmiş, Şimdi Ve Gelecek – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1018 Sürdürülebilir Ve Yenilenebilir Enerji Kaynakları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1019 Matematik Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1020 Matematiksel Mantık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1021 Biyomedikal Mühendisliğinin Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1022 Veri Analizi Ve Veri Madenciliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1023 Yapay Zeka – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1024 Büyük Veri Analizi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1025 Bilimsel Programlamaya Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1026 Web Teknolojileri Ve Tasarımı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1027 Python İle Veri Analizi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1028 R –Programlama İle Veri Analizine Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1029 Laboratuvar Akreditasyonu Ve Kalite Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1030 Programlama Dili Kavramları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1031 Nesne Yönelimli Programlama – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1032 Veri Yapıları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1033 Sayısal/Dijital Mantık Tasarımı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1034 Örüntü Tanıma – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1035 Karmaşık Ağlara Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1036 Robotik Kodlama Ve Digital Teknolojik Ürünler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1037 Bilgi Teknolojileri Ve Güvenlik Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1038 Bilim Ve Teknoloji Politikaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1039 Üç Boyutlu Çizim Teknolojileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1040 Adli Mühendislik I – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1041 Adli Mühendislik II – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1043 İşletme Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1044 Veri Bilimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1045 Temel Parçacıklar Ve Temel Etkileşmeler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1048 Evrenin Temel Bileşenleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1049 Mikrobiyel Gıda Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1050 Çevre Hukuku – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1052 Jeoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1053 Optimizasyona Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1054 Yapay Zeka Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+FMUS1055 Yazılım Mühendisliğine Uyum – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+FMUS1056 Küresel İklim Değişikliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1001 Türk Mitolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1002 19.Yüzyıl Osmanlı Sosyo-Politik Ve Ekonomik Gelişmeler Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1003 Osmanlı İmparatorluğu'nda Yeniden Yapılanma Hareketleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1004 Çağdaş Türk Dilinin Tehlikedeki Türlerini Geliştirme Ve Canlandırma – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 4 AKTS, durum: acilmadi
+SBUS1005 Hint Edebiyatı, Tarihi Ve Kültürü – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1006 Hint Dinleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1007 İtalyan Sinemasına Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1008 Fransız Romanı (17.- 21. Yüzyıl) – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1009 Arkeolojinin Temelleri: Tarihçe,Teknikler Ve Yaklaşımlar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1010 Anadolu’Da Hitit Medeniyeti – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1011 Asur Ve Babil Uygarlıkları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1012 Kıbrıs Arkeolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1013 Antik Heykel Ve Kabartma Sanatının Günümüze Yansımaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1014 Grek Ve Roma Dönemi Arkeolojisi Ve Heykeltraşlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1015 Ortaçağ Avrupasında Soyluluk Ve Serflik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1016 Toplum Dilbilim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1017 Antik Dünyada Sosyal Yaşam – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1018 Antik Dönem Mimarisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1019 Antik Dönemde Sikke Ve Ekonomi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1020 Antik Dünyada Teknoloji Ve Mühendislik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1021 Halkbilim Ve Popüler Kültür – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1022 Postmodernizim Ve Postyapısalcılık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1023 Bilim Ve İnsan – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1024 Stres Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1025 Etik Ve Gündelik Yaşam – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1026 Modern Sanat Akımları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1027 Göç Ve Küreselleşme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1028 Sosyal Değişme Ve Teknoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1029 Bilim Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1030 Bilim Felsefesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1031 Yeni Medya Ve Toplumsal İlişkiler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1032 Bilim İletişimi Ve Haberciliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1033 Edebiyat Ve Fotoğraf – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1034 Estetik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1035 Görsel Kültür – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1036 Halkla İlişkiler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1037 İletişim Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1038 Okuma Ve Anlatım Teknikleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1039 Televizyon Eleştirisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1040 Sanat Ve İletişim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1041 Radyo Yayıncılığına Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1042 Girişimcilik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1043 Liderlik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1044 Profesyonel Kullanım İçin Sunum Becerileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1045 Bütçe Ve Kamu Finansmanı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1046 Finansal Okuryazarlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1047 Vergi Hukuku – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1048 Kentsel Ve Yerel Politikalar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1049 Genel Muhasebe – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1050 Hukukun Temel Kavramları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1051 Fikri Mülkiyet Hukuku – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1052 Bilişim Ve Hukuk – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1053 Devlet Ve Toplum – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1054 Deniz Yolları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1055 Eleştirel Düşünme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1056 Sosyal Medya Ve Dijital Pazarlama – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1057 Atatürk Dönemi Türk Modernleşmesinin Dünyadaki Etkileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1058 Türk Parlamento Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1059 Sosyal Güvenlik Ve Emeklilik Sistemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1060 Uluslararası Finansal Piyasalar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1061 Finansal Risk Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1062 Yatırım Analizi Ve Portföy Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1063 Türk Dünyası Jeopolitiği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1064 Koloni Politikaları Ve Türk Dünyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1065 Reasürans – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1066 İslam Dünya Görüşü – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1067 İslam’In İnanç, İbadet Ve Ahlak Esasları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1068 İslam Kültür Ve Medeniyeti – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1069 Koruma-Onarım Kavram Ve İlkeleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1070 Koruma Kimyasına Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1071 Tasarımsal Düşünme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1072 Antik Çağ Resim Sanatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1073 Mitoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1074 Sanat Ve İnovasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1075 Türk Müziği Ve Genel Kültür – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1076 Dünya Müziklerinden Örnekler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1077 Tiyatro Ve Tasarım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1078 Yaratıcı Drama – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1079 Tiyatro Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1080 Diksiyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1081 Sinema Akımları Ve Felsefesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1082 Dijital Ortamda Fotoğrafçılık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1083 Topluluk Önünde Konuşma Becerileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1084 İşverimliliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1085 Müzakere Ve Mücadele – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1086 Karizma Ve Kariyer – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1087 Sistem Liderliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1088 Kalite Bilinci – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1089 Aidiyet (…) – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1090 İnsan Kaynakları Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1091 Duygusal Zeka – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1092 İletişim Becerileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1093 Kültür Varlıkları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1094 Geleneksel Sanatlar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1095 Yöresel Giyim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1096 Turizmde El Sanatları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1097 Müzecilik Uygulamaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1098 Cumhuriyet Dönemi Eğitim Öğretim Kurumları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1100 Dijital Teknolojiler Ve Dijital Kültür – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1101 Grek Ve Roma Dönemi Arkeolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1102 Toplumsal Cinsiyet Ve Medya – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1103 Popüler Kültür Ve Medya – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1104 Hukuki Sonuçları İle Lozan – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1105 Avrupa Birliği Hukukunun Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1106 Hayvan Hakları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1107 Gönüllülük Çalışmaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1108 Afet Risk Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1109 Osmanlı Paleografyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1110 Türk Dünyası Müziği Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1111 Dünya Koro Edebiyatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1112 Gotik Edebiyatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1113 İnsan Hakları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1114 Türkiye-AB Entegrasyonunun Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1115 Bosna Savaş Edebiyatı (1992-1995) – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1116 19 Ve 20.Yy Balkan Edebiyatında Osmanlı Algısı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1117 Psikoloji Bilimine Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1118 Psikoloji Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1119 Dijital Dönüşüm – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1120 Diyalektik Hukuk Bilimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1121 Finansal Okuryazarlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1122 Kamu Maliyesi Ve Çevre Sorunları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1123 Sömürgecilik Tarihi Ve Dekolonizasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1124 Türk Devlet Kuramları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1125 Sosyal Bilimlerin Gelişimi Ve Antropoloji Teorileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1126 Hukuk Ve Teknoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1127 Şarkiyatçılık Ve Antropoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1128 Coğrafi Düşüncenin Temelleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1129 Eski Anadolu'da Siyasi Ve Kültürel Hayat – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1130 Krizler Çağında İnsan, Doğa Ve Kültür – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1131 Sosyolojide Temel Kavramlar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1132 Tiyatroya Giriş – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1133 Sanat Eseri İnceleme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1134 Antik Çağdan Modern Zamana Seramik Sanatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1135 Tiyatroda Metin Çözümleme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1136 Ahlak Felsefesi Problemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1137 Din Ve Siyaset – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1138 Sosyal Bilimlerde Eleştirel Düşünme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1139 Manevi Bakım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1140 Tasavvuf Ve Kurgu – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1141 Dijital Okuryazarlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1142 Hayvan Hakları, Etik Ve Toplum – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1143 Halkla İlişkilerde Stratejik İletişim Ve Dijitalleşme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1144 Yapay Zeka, Toplum Ve İletişim – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SBUS1146 Senfonik Orkestra Çalgıları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1147 Klasik Müzikte Türler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1148 Müzik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1149 Drama – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1150 Güncel Sanat – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1151 Müze Kültürü Ve Çağdaş Müzeler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1152 Sanat Felsefesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1153 Popüler Kültür Ve Siyaset Tartışmaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SBUS1154 Modern İran Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1001 Spor Sosyolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1002 Fiziksel Aktivite, Spor Ve Sağlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1003 Kadın Ve Spor – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1004 Spor Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1005 Turizm Ve Spor – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1006 Sporda Ergojenik Yardım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1007 Kültür Ve Spor – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1008 Spor Felsefesi Ve Olimpizm – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1009 Spor Ve Çevre – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1010 Sportif Rekreasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1011 Yaşam Boyu Spor – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1012 Türk Spor Teşkilatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1013 Karşılaştırmalı Uluslararası Spor Sistemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1014 Çevre Ve Endüstriyel Kirleticilerin İnsan Sağlığına Etkileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1015 Herkes İçin İlaç Bilgisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1016 Evcil Hayvanlarda Vucut Sıvıları Kimyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1017 Laboratuvar Hayvanlarının Klinik Biyokimyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1018 Hayvanlarda İlk Yardım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1019 Sinema Filmleri Ve Sağlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1020 Sağlık Psikolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1021 Hasta Ve Çalışan Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1022 Afetlerde Psikososyal Destek Hizmetleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1023 Karşılaştırmalı Sağlık Sistemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1024 Sağlık Hizmetlerinde Kalite Değerlendirme Ve Yöntemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1025 Sağlık İletişimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1026 Sağlık Kurumlarında Girişimcilik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1027 Uzun Dönem Bakım Kurumları Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1028 Sağlık Sigortacılığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1029 Sağlık Bilimleri Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1030 Tıbbi Sosyal Hizmet Ve Sosyal Hizmette Eşitlik – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1031 Sağlık Turizmi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1032 Türk Ve Dünya Mutfağı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1033 Besin Toksikolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1034 Besin-İlaç Etkileşimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1035 Çocuklar İçin Eğitsel Dijital Oyunlar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1036 İlaç Güvenliği Ve İlaç Kullanımında Risk Değerlendirmesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1037 Kozmetikler Ve Uygulama Alanları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1038 Doğal Ürünlerin Biyolojik Etkileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1039 Teknoloji, Bilim Ve Çocuk – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1040 Öğrenme Psikolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1041 Sağlık Politikaları Ve Türkiye – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1042 Olumlu Düşünme Becerisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1043 Beyin Ve Bilgi İşlemleme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1044 Sporda İletişim Ve Medya – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1045 Güncel İlaç Bilgisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1047 Deneyim Paylaşım Dinamikleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1048 Hücresel Ve Moleküler İmmünoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1049 Çocuk Hakları Savunuculuğu – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1050 Endüstride Analitik Yöntem Geçerliliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1051 Laboratuvar Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1052 Endüstride Kimyasal Analizler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1053 İlaç Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1054 Toksikolojinin Tarihsel Gelişimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1055 Gıda Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1059 Madde Bağımlılığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1060 Ağız Ve Diş Sağlığının Korunması – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1061 Yoga – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1062 Sağlık Bakanlarının Gözünden Türkiye'nin Sağlık Politikaları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1063 Temel İlk Yardım Eğitimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1064 Kadın Ve Erkek Üreme Sağlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1065 İnsan Anatomisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1066 İletişim Becerileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1067 Sağlıklı Yaşam Ve Egzersiz – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1068 Sağlık Okuryazarlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1069 Üreme Sağlığı Ve Aile Planlaması – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1070 Cinsel Sağlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1071 Patent, Fikri Mülkiyet Ve Sınai Haklar – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1072 Sağlığın Korunması Ve Geliştirilmesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1073 Ankara Üniversitesi'nin Tarih, Kimlik Ve Vizyonu: Geçmişten Geleceğe – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+SSUS1074 Sağlık İçin Egzersiz Ve Beslenme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+SSUS1075 Tütün Kontrolü Savunucusu Olmak – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1001 Süt Endüstrisinde Hijyen Ve Sanitasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1002 Süt Endüstrisinde Biyoteknoloji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1003 Süt Teknolojisinde Katkı Maddeleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1004 Süt, Beslenme Ve Sağlık – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1005 İlkyardım Ve Dalma Tekniği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1006 Türkiye Toprakları Ve Sular – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1007 Gıda Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1008 Besin Kontrolü Ve Mevzuat – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1009 Su Hasadı Teknolojileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1010 Akvaryum Dünyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1011 Tarımda Meteorolojinin Önemi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1012 Hayvan Davranımları Ve Refahı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1013 Hayvan Ekolojisi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1014 Süt İneği Yetiştiriciliği Ve Besleme İlkeleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1015 At Yetiştirme Ve Besleme – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1016 Pet Hayvanların Davranışı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1017 Yaban Hayvanlarında Rehabilitasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1018 Bahçe Bitkileri Zararlıları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1019 Tarla Bitkileri Zararlıları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1020 Bitki Yetiştirme Ortamları – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1021 Gıda İşletmelerinde Sanitasyon – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1022 Yerel Gen Kaynaklarının Korunması Ve Değerlendirilmesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1023 Doğal Kaynaklara Adil Erişim Sağlamada Su-Ekosistem-Gıda Yaklaşımı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1024 İklim Değişikliği Koşulları Altında Su Kaynaklarının Sürdürülebilir Ve Entegre Yönetimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1025 Kültür, Sanat Ve Peyzaj – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1026 Tarım Politikaları Ve Türkiye – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1027 Hayvancılık Ve Tarımda Yenilikçi Teknolojiler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1028 Zeytin – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1029 Kedi Ve Köpeklerin Bakımı Ve Sağlığının Korunması – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1030 Dijital Tarım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1031 Tarımda Sağlık: Tıbbi Ve Aromatik Bitkilerin Keşfi Ve Yetiştiriciliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1032 Yerli Bitkilerle Sürdürülebilir Enerji – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1033 Böcekler Ve Böcek Koleksiyonculuğu – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1034 Gıda Hijyeni Ve Güvenliği – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1035 Evcil Hayvanlarda İlk Yardım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1036 Kitle İmha Silahları Ve Ekosistem Sağlığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+THUS1037 Egzotik Hayvanların Bakımı Ve Refahı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1038 Hayvanlarda Vücut Sıvıları Kimyası – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1039 Biyofilik Tasarım – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1040 Araştırma Yöntemleri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+THUS1041 Kentsel Peyzajda Doğa Farkındalığı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+YBUS1001 Türkmen Türkçesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+YBUS1002 Kırgız Türkçesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1003 Uygur Türkçesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+YBUS1004 İspanyolca – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1005 Portekizce – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1006 İtalyanca – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1007 Hintçe – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1008 Ermenice – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+YBUS1009 Rusca – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1010 Çince (Sinoloji) – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
+YBUS1012 Fransızca – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1013 İngilizce Kısa Hikayeler – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1014 İngilizce Anlatım Becerileri – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1015 Flimlerle İngilizce Dil Becerilerinin Geliştirilmesi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1016 Başlangıç Düzeyinde Osmanlıca – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1017 Çeviri (İngilizce-Türkçe) – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1018 Bilim Kurgu Edebiyatı – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1019 İspanyol Edebiyatı Tarihi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS, durum: acilmadi
+YBUS1021 Rus Halkbilimi – seçmeli, grup: Üniversite Alan Dışı Genel Seçmeli Ders Grubu, 2 kredi, 3 AKTS
