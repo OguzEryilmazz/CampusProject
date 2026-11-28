@@ -20,7 +20,11 @@ class FakeDb:
 
 
 class FakeEmb:
-    async def embed(self, texts):
+    model_id = "fake:v1"
+    kinds = []
+
+    async def embed(self, texts, kind="document"):
+        FakeEmb.kinds.append(kind)
         return [[1.0, 0.0] for _ in texts]
 
 
@@ -32,6 +36,7 @@ async def test_arama_rol_ve_fakulteyi_veritabanina_iletir():
     db = FakeDb([ROW])
     sonuc = await search(db, FakeEmb(), " mazeret sınavı ", "akademisyen", "Mühendislik", k=3)
     assert db.cagri == [([1.0, 0.0], 3, "akademisyen", "Mühendislik")]
+    assert FakeEmb.kinds[-1] == "query"          # arama metni sorgu olarak vektörlenir
     assert sonuc == [{"icerik": ROW["icerik"], "baslik": "Yönetmelik", "madde": "Madde 2",
                       "kaynak_url": "https://x.edu.tr/y", "score": 0.8321}]
 

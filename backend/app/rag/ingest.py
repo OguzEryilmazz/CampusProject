@@ -71,6 +71,7 @@ async def ingest_source(db, embedder, entry, base_dir="."):
         "baslik": entry["baslik"], "tur": entry.get("tur", "duyuru"),
         "roller": sorted(entry.get("roller", [])), "fakulte": entry.get("fakulte"),
         "kaynak_url": entry.get("kaynak_url"), "yayin_tarihi": entry.get("yayin_tarihi"),
+        "embedder": getattr(embedder, "model_id", ""),   # sağlayıcı/model değişirse yeniden vektörlenir
     }
     digest = hashlib.sha256(json.dumps({"t": text, "m": meta}, sort_keys=True).encode()).hexdigest()
     kaynak_id = entry.get("kaynak_url") or f"dosya:{entry['dosya']}"
@@ -82,7 +83,7 @@ async def ingest_source(db, embedder, entry, base_dir="."):
     parcalar = chunk_text(text, meta["baslik"])
     if not parcalar:
         return "bos"
-    vektorler = await embedder.embed([p["icerik"] for p in parcalar])  # önce vektörle, sonra eskiyi sil
+    vektorler = await embedder.embed([p["icerik"] for p in parcalar], kind="document")  # önce vektörle, sonra eskiyi sil
 
     doc_id = await db.upsert_document({
         "kaynak_id": kaynak_id, "kaynak_url": meta["kaynak_url"], "baslik": meta["baslik"],
@@ -116,9 +117,9 @@ async def ingest_all(db, embedder, config_path):
 def main():
     from dotenv import load_dotenv
 
-    from ..config import supabase_url, service_role_key
+    from ..config import service_role_key, supabase_url
     from ..db import Db
-    from .embeddings import DEFAULT_MODEL, OpenAIEmbedder
+    from .embeddings import make_embedder
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
     load_dotenv()
@@ -126,12 +127,13 @@ def main():
     ap.add_argument("--config", default="data/kaynaklar.json")
     args = ap.parse_args()
 
-    url, key, oai = supabase_url(), service_role_key(), os.environ.get("OPENAI_API_KEY")
-    if not (url and key and oai):
-        raise SystemExit("SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY ve OPENAI_API_KEY .env içinde dolu olmalı")
-    db = Db(url, key)
-    embedder = OpenAIEmbedder(oai, os.environ.get("EMBEDDING_MODEL", DEFAULT_MODEL))
-    sonuc = asyncio.run(ingest_all(db, embedder, args.config))
+    url, key, embedder = supabase_url(), service_role_key(), make_embedder()
+    if not (url and key):
+        raise SystemExit("SUPABASE_URL ve SUPABASE_SERVICE_ROLE_KEY .env içinde dolu olmalı")
+    if embedder is None:
+        raise SystemExit("GEMINI_API_KEY (ya da OPENAI_API_KEY) .env içinde dolu olmalı")
+    print(f"Vektörleme: {embedder.model_id}")
+    sonuc = asyncio.run(ingest_all(Db(url, key), embedder, args.config))
     for baslik, durum in sonuc.items():
         print(f"{durum:10} {baslik}")
 

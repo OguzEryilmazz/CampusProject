@@ -8,4 +8,5 @@ requests
 pytest
 pytest-asyncio
 pypdf
- 
+python-multipart
+google-genai

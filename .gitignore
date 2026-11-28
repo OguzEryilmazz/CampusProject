@@ -7,3 +7,6 @@ __pycache__/
 .pytest_cache/
 # Bologna ham API onbellegi (uretilebilir, ~15 MB+)
 backend/data/bologna/ham/
+tools/raw/
+tools/out/
+tools/probe_out/

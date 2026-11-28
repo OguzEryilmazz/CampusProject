@@ -7,7 +7,8 @@ bağımsız çalışır. Sonuç 60 sn önbelleğe alınır, her istekte Supabase
 import time
 
 import httpx
-from fastapi import Header, HTTPException
+from fastapi import Depends, HTTPException
+from fastapi.security import OAuth2PasswordBearer
 
 from .config import supabase_anon_key, supabase_url
 
@@ -16,10 +17,29 @@ _CACHE = {}  # token -> (bitiş zamanı, kullanıcı)
 _http = httpx.AsyncClient(timeout=10)
 
 
-async def get_current_user(authorization: str | None = Header(default=None)):
-    if not authorization or not authorization.lower().startswith("bearer "):
+# /docs sayfasındaki "Authorize" düğmesi bu şemayı kullanır: e-posta ve şifre girilir,
+# token otomatik alınıp tüm isteklere eklenir.
+oauth2 = OAuth2PasswordBearer(tokenUrl="auth/token", auto_error=False)
+
+
+async def password_login(email, password):
+    """Supabase Auth ile e-posta/şifre girişi yapar, erişim token'ını döndürür."""
+    url, key = supabase_url(), supabase_anon_key()
+    if not url or not key:
+        raise HTTPException(500, "Supabase ayarı eksik")
+    try:
+        r = await _http.post(f"{url}/auth/v1/token", params={"grant_type": "password"},
+                             headers={"apikey": key}, json={"email": email, "password": password})
+    except httpx.HTTPError:
+        raise HTTPException(503, "Kimlik doğrulama servisine ulaşılamadı")
+    if r.status_code != 200:
+        raise HTTPException(401, "E-posta ya da şifre hatalı")
+    return r.json()["access_token"]
+
+
+async def get_current_user(token: str | None = Depends(oauth2)):
+    if not token:
         raise HTTPException(401, "Giriş gerekli")
-    token = authorization[7:].strip()
     now = time.monotonic()
 
     hit = _CACHE.get(token)

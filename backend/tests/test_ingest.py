@@ -6,11 +6,12 @@ from app.rag.ingest import html_to_text, ingest_all, ingest_source, read_source
 
 
 class FakeEmbedder:
-    def __init__(self):
-        self.cagri = 0
+    def __init__(self, model_id="fake:v1"):
+        self.cagri, self.kinds, self.model_id = 0, [], model_id
 
-    async def embed(self, texts):
+    async def embed(self, texts, kind="document"):
         self.cagri += 1
+        self.kinds.append(kind)
         return [[0.1, 0.2] for _ in texts]
 
 
@@ -118,3 +119,17 @@ def test_desteklenmeyen_tur(tmp_path):
     f.write_text("x")
     with pytest.raises(ValueError):
         read_source(f)
+
+
+async def test_belgeler_document_olarak_vektorlenir(tmp_path):
+    db, emb = FakeDb(), FakeEmbedder()
+    await ingest_source(db, emb, yaz(tmp_path, "Madde 1 – Bir.\n\nMadde 2 – İki."), tmp_path)
+    assert emb.kinds == ["document"]
+
+
+async def test_saglayici_degisince_kaynak_yeniden_vektorlenir(tmp_path):
+    db = FakeDb()
+    entry = yaz(tmp_path, "Madde 1 – Bir.\n\nMadde 2 – İki.")
+    assert await ingest_source(db, FakeEmbedder("openai:a"), entry, tmp_path) == "yazildi"
+    assert await ingest_source(db, FakeEmbedder("openai:a"), entry, tmp_path) == "atlandi"
+    assert await ingest_source(db, FakeEmbedder("gemini:b@1536"), entry, tmp_path) == "yazildi"

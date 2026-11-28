@@ -89,6 +89,29 @@ class Db:
         r.raise_for_status()
 
 
+    # ---- Kullanıcıya dönük okumalar ----
+    async def profile_of(self, user_id):
+        rows = await self._get("profiles", {
+            "id": f"eq.{user_id}", "select": "ad,rol,fakulte,kampus,bildirim_acik"})
+        return rows[0] if rows else None
+
+    async def favorite_stops_of(self, user_id):
+        return await self._get("favorite_stops", {
+            "user_id": f"eq.{user_id}", "select": "id,durak_no,ad,bildirim_dk", "order": "created_at.asc"})
+
+    async def notifications_of(self, user_id, limit=20):
+        return await self._get("notifications", {
+            "user_id": f"eq.{user_id}", "order": "created_at.desc", "limit": str(limit),
+            "select": "id,durak_no,mesaj,dakika,araclar,created_at,sent_at"})
+        
+    async def schedule_of(self, user_id, gun=None):
+        """Kullanıcının ders programı (haftalık satırlar). gun verilirse yalnızca o gün (1=Pzt … 7=Paz)."""
+        params = {"user_id": f"eq.{user_id}", "select": "id,gun,baslangic,bitis,baslik,yer",
+                  "order": "gun.asc,baslangic.asc"}
+        if gun is not None:
+            params["gun"] = f"eq.{gun}"
+        return await self._get("schedule_items", params)
+
     # ---- RAG ----
     @staticmethod
     def _vec(v):
