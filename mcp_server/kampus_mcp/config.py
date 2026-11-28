@@ -24,3 +24,10 @@ MAX_ARAMA_SONUCU = 8
 ICERIK_MAX_KARAKTER = 700
 
 TZ = ZoneInfo("Europe/Istanbul")  # backend scheduler.py ile aynı; gun alanı isoweekday (1=Pzt … 7=Paz)
+
+# Oran sınırı (tek süreçte bellekte tutulur; sunucu tek süreç çalışmalı)
+ISTEK_LIMITI_DK = int(os.environ.get("ISTEK_LIMITI_DK", "60"))   # token başına dakikada istek
+HATA_LIMITI_DK = int(os.environ.get("HATA_LIMITI_DK", "10"))     # IP başına dakikada başarısız kimlik denemesi
+# Yalnızca güvenilir bir ters vekilin (barındırıcının yük dengeleyicisi) arkasındaysan true yap.
+# Doğrudan internete açıkken true olursa istemci X-Forwarded-For'u taklit edip sınırı aşabilir.
+GUVEN_VEKIL = os.environ.get("GUVEN_VEKIL", "false").lower() in ("1", "true", "evet")

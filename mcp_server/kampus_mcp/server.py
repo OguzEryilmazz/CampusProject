@@ -9,7 +9,7 @@ from starlette.responses import JSONResponse
 from . import araclar, config
 from .auth_middleware import KimlikZorunlu
 
-SURUM = "0.3.1"
+SURUM = "0.4.0"
 mcp = FastMCP("akilli-kampus-asistani", version=SURUM)
 
 
