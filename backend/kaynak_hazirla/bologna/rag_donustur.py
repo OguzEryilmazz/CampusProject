@@ -98,7 +98,14 @@ def metin_mufredat_yariyil(rows):
 def main(argv=None, backend=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--backend", default=str(backend or ortak.BACKEND), help="backend klasörü (data/ burada)")
+    ap.add_argument("--turler", default="program,mufredat",
+                    help="RAG'a girecek kaynaklar: program, mufredat, ders (virgülle). Varsayılan: program,mufredat. "
+                         "Ders ayrıntıları yapısal veride (dersler.jsonl) kalır, MCP araçları kesin eşleşmeyle okur.")
     a = ap.parse_args(argv)
+    turler = {t.strip() for t in a.turler.split(",") if t.strip()}
+    gecersiz = turler - {"program", "mufredat", "ders"}
+    if gecersiz:
+        sys.exit(f"Geçersiz --turler değeri: {sorted(gecersiz)} (program, mufredat, ders)")
 
     backend = Path(a.backend)
     veri = backend / "data" / "bologna"
@@ -136,24 +143,25 @@ def main(argv=None, backend=None):
                        ("egitim_yontemi", "Eğitim yöntemi")):
             if prog.get(k_):
                 ust.append(f"{e_}: {prog[k_]}")
-        ekle(hedef / "program-genel.txt", f"{ad} programı – Genel bilgiler ({yil})", TUR_PROGRAM,
-             "\n".join(ust), f"{p_url}#program-genel")
-        for anahtar, etiket in PROGRAM_BASLIKLARI:
-            metin = (prog["bolumler"].get(anahtar) or "").strip()
-            if metin:
-                ekle(hedef / f"program-{anahtar}.txt", f"{ad} programı – {etiket} ({yil})", TUR_PROGRAM,
-                     metin, f"{p_url}#program-{anahtar}")
+        if "program" in turler:
+            ekle(hedef / "program-genel.txt", f"{ad} programı – Genel bilgiler ({yil})", TUR_PROGRAM,
+                 "\n".join(ust), f"{p_url}#program-genel")
+            for anahtar, etiket in PROGRAM_BASLIKLARI:
+                metin = (prog["bolumler"].get(anahtar) or "").strip()
+                if metin:
+                    ekle(hedef / f"program-{anahtar}.txt", f"{ad} programı – {etiket} ({yil})", TUR_PROGRAM,
+                         metin, f"{p_url}#program-{anahtar}")
 
         by = {}
         for r in muf["dersler"]:
             by.setdefault(r.get("yariyil") or 0, []).append(r)
-        for y in sorted(by):
+        for y in sorted(by) if "mufredat" in turler else []:
             etiket = f"{y}. yarıyıl" if y else "yarıyıl belirtilmemiş dersler"
             ekle(hedef / f"mufredat-{y or 'belirsiz'}.txt", f"{ad} müfredatı ({yil}) – {etiket}", TUR_MUFREDAT,
                  metin_mufredat_yariyil(by[y]), f"{p_url}#mufredat-{y or 'belirsiz'}")
 
         kullanilan = set()
-        for k in dersler:
+        for k in dersler if "ders" in turler else []:
             ad_dosya = slug(k["ders_kodu"])
             if ad_dosya in kullanilan:
                 ad_dosya += "-" + slug(k.get("ders_id") or k["ders_adi"])[:6]

@@ -107,7 +107,7 @@ def test_cek_ikinci_calistirma_onbellekten(veri, sahte_post):
 def test_rag_donustur_benzersiz_kaynak_url_ve_ingest_cakismaz(veri, sahte_post):
     backend, v = veri
     cek_calistir(v)
-    rag_donustur.main(["--backend", str(backend)])
+    rag_donustur.main(["--backend", str(backend), "--turler", "program,mufredat,ders"])
     kaynaklar = json.loads((backend / "data" / "kaynaklar_bologna.json").read_text(encoding="utf-8"))
 
     assert all(k["roller"] == [] and k["fakulte"] is None for k in kaynaklar)          # herkese açık
@@ -130,7 +130,7 @@ def test_rag_donustur_benzersiz_kaynak_url_ve_ingest_cakismaz(veri, sahte_post):
 def test_ders_metni_baslik_parcalara_tasinir_ve_not_icerir(veri, sahte_post):
     backend, v = veri
     cek_calistir(v)
-    rag_donustur.main(["--backend", str(backend)])
+    rag_donustur.main(["--backend", str(backend), "--turler", "program,mufredat,ders"])
     kaynaklar = json.loads((backend / "data" / "kaynaklar_bologna.json").read_text(encoding="utf-8"))
     mat = next(k for k in kaynaklar if k["dosya"].endswith("ders-mat0143.txt"))
     metin = (backend / mat["dosya"]).read_text(encoding="utf-8")
@@ -145,11 +145,11 @@ def test_ders_metni_baslik_parcalara_tasinir_ve_not_icerir(veri, sahte_post):
 def test_rag_donustur_yeniden_calistirinca_eski_metin_kalmaz(veri, sahte_post):
     backend, v = veri
     cek_calistir(v)
-    rag_donustur.main(["--backend", str(backend)])
+    rag_donustur.main(["--backend", str(backend), "--turler", "program,mufredat,ders"])
     eski = backend / "data" / "bologna" / "metin" / "bozuk.txt"
     eski.parent.mkdir(parents=True, exist_ok=True)
     eski.write_text("silinmeli")
-    rag_donustur.main(["--backend", str(backend)])
+    rag_donustur.main(["--backend", str(backend), "--turler", "program,mufredat,ders"])
     assert not eski.exists()
 
 
@@ -176,3 +176,12 @@ class FakeDb:
 
     async def insert_chunks(self, rows):
         self.chunks.extend(rows)
+
+
+def test_rag_donustur_varsayilan_ders_metni_uretmez(veri, sahte_post):
+    backend, v = veri
+    cek_calistir(v)
+    rag_donustur.main(["--backend", str(backend)])
+    kaynaklar = json.loads((backend / "data" / "kaynaklar_bologna.json").read_text(encoding="utf-8"))
+    assert {k["tur"] for k in kaynaklar} == {"bologna_program", "bologna_mufredat"}
+    assert not list((backend / "data" / "bologna" / "metin").rglob("ders-*.txt"))

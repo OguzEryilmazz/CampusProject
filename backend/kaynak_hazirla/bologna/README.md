@@ -30,12 +30,19 @@ yüklenebilsin ve değişiklikler diff'te görünsün. Yalnızca `ham/` git dı�
 # 0) bir kerelik: ortak.py içindeki DERS_LISTESI_YOLU'nu doldur (tarayıcı Network sekmesinden ders listesi isteği)
 python -m kaynak_hazirla.bologna.cek --program "Yazılım Mühendisliği" --en-fazla 20    # deneme
 python -m kaynak_hazirla.bologna.cek --program "Yazılım Mühendisliği"
-python -m kaynak_hazirla.bologna.rag_donustur
+python -m kaynak_hazirla.bologna.rag_donustur          # varsayılan: yalnızca program + müfredat metni RAG'a girer
 python -m app.rag.ingest --config data/kaynaklar_bologna.json
 ```
 
 Tüm lisans mühendislik programları: `cek --fakulte "Mühendislik Fakültesi" --duzey Lisans`.
 İkinci çalıştırma `ham/` önbelleğinden gelir; yeni veri için `ham/` içindeki ilgili dosyayı (ya da klasörü) sil.
+
+## RAG'a ne girer, ne girmez
+
+Varsayılan olarak yalnızca **program metinleri** (mezuniyet koşulu, sınav/notlandırma…) ve **yarıyıl müfredat listeleri** RAG'a girer
+(`--turler program,mufredat`). **Ders ayrıntıları** (`dersler.jsonl`) vektöre konmaz: ders kodu, AKTS, haftalık konu gibi kesin
+bilgiler, kullanıcının programı bilindiğinde MCP aracıyla tam eşleşmeyle okunur. Tüm fakülte için ders başına belge
+binlerce kaynak ve aynı adlı derslerin (Fizik I…) birbirine karışması demektir. Gerekirse `--turler program,mufredat,ders` ile açılır.
 
 ## Bilinen noktalar
 
