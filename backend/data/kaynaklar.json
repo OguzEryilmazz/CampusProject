@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "dosya": "data/kaynaklar/egitim-ogretim-yonetmeligi.pdf",
+    "baslik": "Ankara Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
+    "tur": "yonetmelik",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/04/Yonetmelik-Son-Hali-RG-Mart-2026.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/gecis-cift-anadal-yandal-yonetmeligi.pdf",
+    "baslik": "Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik",
+    "tur": "yonetmelik",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/03/Ciftanadal-yandal-yonetmelik.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/yaz-ogretimi-yonetmeligi.pdf",
+    "baslik": "Ankara Üniversitesi Yaz Öğretimi Yönetmeliği",
+    "tur": "yonetmelik",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2024/01/ANKARA-UNIVERSITESI-YAZ-OGRETIMI-YONETMELIGI.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/yabanci-dil-yonetmeligi.pdf",
+    "baslik": "Ankara Üniversitesi Yabancı Dil Eğitim-Öğretim Yönetmeliği",
+    "tur": "yonetmelik",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2024/10/Yonetmelik-Son-Hali-RG-Sonrasi.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/cift-anadal-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Çift Anadal Yönergesi",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/04/Cift-Anadal-Yonergesi-YAYIMLANAN-2026.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/yandal-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Yandal Yönergesi",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/06/Yandal-Yonergesi-YAYIMLANAN-2026.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/akademik-danismanlik-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Akademik Danışmanlık Yönergesi",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2024/01/Akademik-Danismanlik-Yonergesi.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/diploma-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Diploma ve Diğer Resmî Belgelerin Düzenlenmesine İlişkin Yönerge",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2025/02/Diploma-Yonergesi-Son-Hali-06.02.2025.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/sosyal-transkript-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Sosyal Transkript Yönergesi",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/02/ANKARA-UNIVERSITESI-SOSYAL-TRANSKRIPT-YONERGESI.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/mikro-yeterlik-yonergesi.pdf",
+    "baslik": "Ankara Üniversitesi Mikro Yeterlik Sertifikası Yönergesi",
+    "tur": "yonerge",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2023/06/Ankara-Universitesi-Mikro-Yeterlik-Sertifikasi-Yonergesi.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/yatay-gecis-ilkeleri.pdf",
+    "baslik": "Ankara Üniversitesi Yatay Geçiş İlkeleri (28.12.2023)",
+    "tur": "ilke",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2024/03/Yatay-Gecis-Ilkeleri-28.12.2023.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/ustun-basari-ilkeleri.pdf",
+    "baslik": "Üstün Başarı, Çok Üstün Başarı ve Derece Öğrencileri İçin İlkeler ve Koşullar",
+    "tur": "ilke",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2025/06/Ustun-Basari-Cok-Ustun-Basari-Ogr.Ilke-Esaslari.pdf.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/sinav-ilkeleri.pdf",
+    "baslik": "Ankara Üniversitesi Ön Lisans/Lisans Sınav İlkeleri",
+    "tur": "ilke",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2022/02/On-Lisans-Lisans-Sinav-Ilkeleri-son.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/bagil-degerlendirme.pdf",
+    "baslik": "Bağıl Değerlendirme Bilgi Notu",
+    "tur": "ilke",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/files/2014/01/Ba%C4%9F%C4%B1l-De%C4%9Ferlendirme.pdf"
+  },
+  {
+    "dosya": "data/kaynaklar/akademik-takvim-2026-2027.pdf",
+    "baslik": "2026-2027 Eğitim-Öğretim Yılı Akademik Takvimi",
+    "tur": "akademik_takvim",
+    "roller": [],
+    "fakulte": null,
+    "kaynak_url": "https://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2026/06/2026-2027_Yili_Akademik_Takvimi-SON.pdf"
+  }
+]
